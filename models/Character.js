@@ -11,6 +11,7 @@ const characterSchema = Schema({
   rarity: Number,
   constellation: String,
   description: String,
+  imageUrl: String
   
  
   // 💡 Added an optional brand

@@ -160,13 +160,7 @@
       "4-piece_bonus": "Increases DMG against enemies that are Burning or affected by Pyro by 35%.",
       "id": "lavawalker"
   },
-  {
-      "name": "Lucky Dog",
-      "max_rarity": 3,
-      "2-piece_bonus": "DEF increased by 100.",
-      "4-piece_bonus": "Picking up Mora restores 300 HP.",
-      "id": "lucky-dog"
-  },
+
   {
       "name": "Maiden Beloved",
       "max_rarity": 5,
@@ -202,13 +196,7 @@
       "4-piece_bonus": "Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.",
       "id": "noblesse-oblige"
   },
-  {
-      "name": "Nymph's Dream",
-      "max_rarity": 5,
-      "2-piece_bonus": "Hydro DMG Bonus +15%",
-      "4-piece_bonus": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3, or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently.",
-      "id": "nymph-s-dream"
-  },
+  
   {
       "name": "Ocean-Hued Clam",
       "max_rarity": 5,
@@ -223,36 +211,10 @@
       "4-piece_bonus": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached the 2 set effect is increased by 100%.",
       "id": "pale-flame"
   },
-  {
-      "name": "Prayers for Destiny",
-      "max_rarity": 4,
-      "1-piece_bonus": "Affected by Hydro for 40% less time.",
-      "id": "prayers-for-destiny"
-  },
-  {
-      "name": "Prayers for Illumination",
-      "max_rarity": 4,
-      "1-piece_bonus": "Affected by Pyro for 40% less time.",
-      "id": "prayers-for-illumination"
-  },
-  {
-      "name": "Prayers for Wisdom",
-      "max_rarity": 4,
-      "1-piece_bonus": "Affected by Electro for 40% less time.",
-      "id": "prayers-for-wisdom"
-  },
-  {
-      "name": "Prayers to Springtime",
-      "max_rarity": 4,
-      "1-piece_bonus": "Affected by Cryo for 40% less time.",
-      "id": "prayers-to-springtime"
-  },
-  {
-      "name": "Sacrifieur to the Firmament",
-      "max_rarity": 4,
-      "1-piece_bonus": "Affected by Anemo for 40% less time.",
-      "id": "prayers-to-the-firmament"
-  },
+ 
+ 
+ 
+ 
   {
       "name": "Resolution of Sojourner",
       "max_rarity": 4,
@@ -323,13 +285,7 @@
       "4-piece_bonus": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.",
       "id": "tiny-miracle"
   },
-  {
-      "name": "Traveling Doctor",
-      "max_rarity": 3,
-      "2-piece_bonus": "Increases incoming healing by 20%.",
-      "4-piece_bonus": "Using Elemental Burst restores 20% HP.",
-      "id": "traveling-doctor"
-  },
+ 
   {
       "name": "Unfinished Reverie",
       "max_rarity": 5,
@@ -351,13 +307,7 @@
       "4-piece_bonus": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
       "id": "viridescent-venerer"
   },
-  {
-      "name": "Vourukasha's Glow",
-      "max_rarity": 5,
-      "2-piece_bonus": "HP +20%",
-      "4-piece_bonus": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field.",
-      "id": "vourukasha-s-glow"
-  },
+ 
   {
       "name": "Wanderer's Troupe",
       "max_rarity": 5,
