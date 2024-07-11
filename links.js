@@ -1,17 +1,4 @@
-{
-  "name": "Albedo",
-  "title": "Kreideprinz",
-  "vision": "Geo",
-  "weapon": "Sword",
-  "gender": "Male",
-  "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
-  "rarity": 5,
-  "release": "2020-12-23",
-  "constellation": "Princeps Cretaceus",
-  "birthday": "0000-09-13",
-  "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius."
-}
+
 
 //
 "albedo", = https://www.youtube.com/watch?v=A3U51KyZLxE

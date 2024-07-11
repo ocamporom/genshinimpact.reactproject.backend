@@ -183,6 +183,7 @@
     id: "albedo",
   },
   {
+    
     imageUrl:
       "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605491/alhaitham_kzwvsb.png",
 
@@ -391,6 +392,7 @@
     id: "alhaitham",
   },
   {
+   
     imageUrl:
       "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605493/aloy_tlxcgs.png",
     name: "Aloy",
@@ -14427,6 +14429,7 @@
     id: "yoimiya",
   },
   {
+
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605479/yun-jin_tb2cti.png",
     name: "Yun Jin",

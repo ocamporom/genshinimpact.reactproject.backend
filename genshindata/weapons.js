@@ -1,5 +1,6 @@
 [
   {
+    weaponUrl:""
     name: "A Thousand Floating Dreams",
     type: "Catalyst",
     rarity: 5,
@@ -13,6 +14,7 @@
     id: "a-thousand-floating-dreams",
   },
   {
+    weaponUrl:""
     name: "Akuoumaru",
     type: "Claymore",
     rarity: 4,
@@ -26,6 +28,7 @@
     id: "akuoumaru",
   },
   {
+    weaponUrl:""
     name: "Alley Hunter",
     type: "Bow",
     rarity: 4,
@@ -40,6 +43,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Amenoma Kageuchi",
     type: "Sword",
     rarity: 4,
@@ -53,6 +57,7 @@
     id: "amenoma-kageuchi",
   },
   {
+    weaponUrl:""
     name: "Amos' Bow",
     type: "Bow",
     rarity: 5,
@@ -67,6 +72,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Aqua Simulacra",
     type: "Bow",
     rarity: 5,
@@ -80,6 +86,7 @@
     id: "aqua-simulacra",
   },
   {
+    weaponUrl:""
     name: "Aquila Favonia",
     type: "Sword",
     rarity: 5,
@@ -93,6 +100,7 @@
     id: "aquila-favonia",
   },
   {
+    weaponUrl:""
     name: "Ballad of the Boundless Blue",
     type: "Catalyst",
     rarity: 4,
@@ -106,6 +114,7 @@
     id: "ballad-of-the-boundless-blue",
   },
   {
+    weaponUrl:""
     name: "Ballad Of The Fjords",
     type: "Polearm",
     rarity: 4,
@@ -119,6 +128,7 @@
     id: "ballad-of-the-fjords",
   },
   {
+    weaponUrl:""
     name: "Beacon of the Reed Sea",
     type: "Claymore",
     rarity: 5,
@@ -133,6 +143,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Blackcliff Agate",
     type: "Catalyst",
     rarity: 4,
@@ -146,6 +157,7 @@
     id: "blackcliff-agate",
   },
   {
+    weaponUrl:""
     name: "Blackcliff Agate",
     type: "Catalyst",
     rarity: 4,
@@ -159,6 +171,7 @@
     id: "blackcliff-amulet",
   },
   {
+    weaponUrl:""
     name: "Blackcliff Longsword",
     type: "Sword",
     rarity: 4,
@@ -172,6 +185,7 @@
     id: "blackcliff-longsword",
   },
   {
+    weaponUrl:""
     name: "Blackcliff Pole",
     type: "Polearm",
     rarity: 4,
@@ -185,6 +199,7 @@
     id: "blackcliff-pole",
   },
   {
+    weaponUrl:""
     name: "Blackcliff Slasher",
     type: "Claymore",
     rarity: 4,
@@ -198,6 +213,7 @@
     id: "blackcliff-slasher",
   },
   {
+    weaponUrl:""
     name: "Blackcliff Warbow",
     type: "Bow",
     rarity: 4,
@@ -212,6 +228,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Calamity Queller",
     type: "Polearm",
     rarity: 5,
@@ -225,6 +242,7 @@
     id: "calamity-queller",
   },
   {
+    weaponUrl:""
     name: "Cashflow Supervision",
     type: "Catalyst",
     rarity: 5,
@@ -238,6 +256,7 @@
     id: "cashflow-supervision",
   },
   {
+    weaponUrl:""
     name: "Cinnabar Spindle",
     type: "Sword",
     rarity: 4,
@@ -251,6 +270,7 @@
     id: "cinnabar-spindle",
   },
   {
+    weaponUrl:""
     name: "Compound Bow",
     type: "Bow",
     rarity: 4,
@@ -265,6 +285,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Crane's Echoing Call",
     type: "Catalyst",
     rarity: 5,
@@ -278,6 +299,7 @@
     id: "crane-s-echoing-call",
   },
   {
+    weaponUrl:""
     name: "Crescent Pike",
     type: "Polearm",
     rarity: 4,
@@ -291,6 +313,7 @@
     id: "crescent-pike",
   },
   {
+    weaponUrl:""
     name: "Crimson Moon's Semblance",
     type: "Polearm",
     rarity: 5,
@@ -305,6 +328,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Deathmatch",
     type: "Polearm",
     rarity: 4,
@@ -319,6 +343,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Dialogues of the Desert Sages",
     type: "Polearm",
     rarity: 4,
@@ -332,6 +357,7 @@
     id: "dialogues-of-the-desert-sages",
   },
   {
+    weaponUrl:""
     name: "Dodoco Tales",
     type: "Catalyst",
     rarity: 4,
@@ -345,6 +371,7 @@
     id: "dodoco-tales",
   },
   {
+    weaponUrl:""
     name: "Dragon's Bane",
     type: "Polearm",
     rarity: 4,
@@ -358,6 +385,7 @@
     id: "dragon-s-bane",
   },
   {
+    weaponUrl:""
     name: "Dragonspine Spear",
     type: "Polearm",
     rarity: 4,
@@ -372,6 +400,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Elegy for the End",
     type: "Bow",
     rarity: 5,
@@ -386,6 +415,7 @@
   },
 
   {
+    weaponUrl:""
     name: "End of the Line",
     type: "Bow",
     rarity: 4,
@@ -399,6 +429,7 @@
     id: "end-of-the-line",
   },
   {
+    weaponUrl:""
     name: "Engulfing Lightning",
     type: "Polearm",
     rarity: 5,
@@ -412,6 +443,7 @@
     id: "engulfing-lightning",
   },
   {
+    weaponUrl:""
     name: "Everlasting Moonglow",
     type: "Catalyst",
     rarity: 5,
@@ -425,6 +457,7 @@
     id: "everlasting-moonglow",
   },
   {
+    weaponUrl:""
     name: "Eye of Perception",
     type: "Catalyst",
     rarity: 4,
@@ -438,6 +471,7 @@
     id: "eye-of-perception",
   },
   {
+    weaponUrl:""
     name: "Fading Twilight",
     type: "Bow",
     rarity: 4,
@@ -451,6 +485,7 @@
     id: "fading-twilight",
   },
   {
+    weaponUrl:""
     name: "Favonius Codex",
     type: "Catalyst",
     rarity: 4,
@@ -464,6 +499,7 @@
     id: "favonius-codex",
   },
   {
+    weaponUrl:""
     name: "Favonius Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -477,6 +513,7 @@
     id: "favonius-greatsword",
   },
   {
+    weaponUrl:""
     name: "Favonius Lance",
     type: "Polearm",
     rarity: 4,
@@ -490,6 +527,7 @@
     id: "favonius-lance",
   },
   {
+    weaponUrl:""
     name: "Favonius Sword",
     type: "Sword",
     rarity: 4,
@@ -503,6 +541,7 @@
     id: "favonius-sword",
   },
   {
+    weaponUrl:""
     name: "Favonius Warbow",
     type: "Bow",
     rarity: 4,
@@ -517,6 +556,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Festering Desire",
     type: "Sword",
     rarity: 4,
@@ -531,6 +571,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Finale Of The Deep",
     type: "Sword",
     rarity: 4,
@@ -544,6 +585,7 @@
     id: "finale-of-the-deep",
   },
   {
+    weaponUrl:""
     name: "Fleuve Cendre Ferryman",
     type: "Sword",
     rarity: 4,
@@ -557,6 +599,7 @@
     id: "fleuve-cendre-ferryman",
   },
   {
+    weaponUrl:""
     name: "Flowing Purity",
     type: "Catalyst",
     rarity: 4,
@@ -570,6 +613,7 @@
     id: "flowing-purity",
   },
   {
+    weaponUrl:""
     name: "Forest Regalia",
     type: "Claymore",
     rarity: 4,
@@ -583,6 +627,7 @@
     id: "forest-regalia",
   },
   {
+    weaponUrl:""
     name: "Freedom-Sworn",
     type: "Sword",
     rarity: 5,
@@ -596,6 +641,7 @@
     id: "freedom-sworn",
   },
   {
+    weaponUrl:""
     name: "Frostbearer",
     type: "Catalyst",
     rarity: 4,
@@ -609,6 +655,7 @@
     id: "frostbearer",
   },
   {
+    weaponUrl:""
     name: "Fruit of Fulfillment",
     type: "Catalyst",
     rarity: 4,
@@ -622,6 +669,7 @@
     id: "fruit-of-fulfillment",
   },
   {
+    weaponUrl:""
     name: "Hakushin Ring",
     type: "Catalyst",
     rarity: 4,
@@ -636,6 +684,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Hamayumi",
     type: "Bow",
     rarity: 4,
@@ -649,6 +698,7 @@
     id: "hamayumi",
   },
   {
+    weaponUrl:""
     name: "Haran Geppaku Futsu",
     type: "Sword",
     rarity: 5,
@@ -663,6 +713,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Hunter's Path",
     type: "Bow",
     rarity: 5,
@@ -676,6 +727,7 @@
     id: "hunter-s-path",
   },
   {
+    weaponUrl:""
     name: "Ibis Piercer",
     type: "Bow",
     rarity: 4,
@@ -691,6 +743,7 @@
 
 
   {
+    weaponUrl:""
     name: "Jadefall's Splendor",
     type: "Catalyst",
     rarity: 5,
@@ -704,6 +757,7 @@
     id: "jadefall-s-splendor",
   },
   {
+    weaponUrl:""
     name: "Kagotsurube Isshin",
     type: "Sword",
     rarity: 4,
@@ -717,6 +771,7 @@
     id: "kagotsurube-isshin",
   },
   {
+    weaponUrl:""
     name: "Kagura's Verity",
     type: "Catalyst",
     rarity: 5,
@@ -730,6 +785,7 @@
     id: "kagura-s-verity",
   },
   {
+    weaponUrl:""
     name: "Katsuragikiri Nagamasa",
     type: "Claymore",
     rarity: 4,
@@ -743,6 +799,7 @@
     id: "katsuragikiri-nagamasa",
   },
   {
+    weaponUrl:""
     name: "Key of Khaj-Nisut",
     type: "Sword",
     rarity: 5,
@@ -756,6 +813,7 @@
     id: "key-of-khaj-nisut",
   },
   {
+    weaponUrl:""
     name: "King's Squire",
     type: "Bow",
     rarity: 4,
@@ -769,6 +827,7 @@
     id: "king-s-squire",
   },
   {
+    weaponUrl:""
     name: "Kitain Cross Spear",
     type: "Polearm",
     rarity: 4,
@@ -782,6 +841,7 @@
     id: "kitain-cross-spear",
   },
   {
+    weaponUrl:""
     name: "Light of Foliar Incision",
     type: "Sword",
     rarity: 5,
@@ -795,6 +855,7 @@
     id: "light-of-foliar-incision",
   },
   {
+    weaponUrl:""
     name: "Lion's Roar",
     type: "Sword",
     rarity: 4,
@@ -808,6 +869,7 @@
     id: "lion-s-roar",
   },
   {
+    weaponUrl:""
     name: "Lithic Blade",
     type: "Claymore",
     rarity: 4,
@@ -821,6 +883,7 @@
     id: "lithic-blade",
   },
   {
+    weaponUrl:""
     name: "Lithic Spear",
     type: "Polearm",
     rarity: 4,
@@ -834,6 +897,7 @@
     id: "lithic-spear",
   },
   {
+    weaponUrl:""
     name: "Lost Prayer to the Sacred Winds",
     type: "Catalyst",
     rarity: 5,
@@ -847,6 +911,7 @@
     id: "lost-prayer-to-the-sacred-winds",
   },
   {
+    weaponUrl:""
     name: "Luxurious Sea-Lord",
     type: "Claymore",
     rarity: 4,
@@ -861,6 +926,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Mailed Flower",
     type: "Claymore",
     rarity: 4,
@@ -874,6 +940,7 @@
     id: "mailed-flower",
   },
   {
+    weaponUrl:""
     name: "Makhaira Aquamarine",
     type: "Claymore",
     rarity: 4,
@@ -887,6 +954,7 @@
     id: "makhaira-aquamarine",
   },
   {
+    weaponUrl:""
     name: "Mappa Mare",
     type: "Catalyst",
     rarity: 4,
@@ -900,6 +968,7 @@
     id: "mappa-mare",
   },
   {
+    weaponUrl:""
     name: "Memory of Dust",
     type: "Catalyst",
     rarity: 5,
@@ -914,6 +983,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Missive Windspear",
     type: "Polearm",
     rarity: 4,
@@ -927,6 +997,7 @@
     id: "missive-windspear",
   },
   {
+    weaponUrl:""
     name: "Mistsplitter Reforged",
     type: "Sword",
     rarity: 5,
@@ -940,6 +1011,7 @@
     id: "mistsplitter-reforged",
   },
   {
+    weaponUrl:""
     name: "Mitternachts Waltz",
     type: "Bow",
     rarity: 4,
@@ -953,6 +1025,7 @@
     id: "mitternachts-waltz",
   },
   {
+    weaponUrl:""
     name: "Moonpiercer",
     type: "Polearm",
     rarity: 4,
@@ -966,6 +1039,7 @@
     id: "moonpiercer",
   },
   {
+    weaponUrl:""
     name: "Mouun's Moon",
     type: "Bow",
     rarity: 4,
@@ -979,6 +1053,7 @@
     id: "mouun-s-moon",
   },
   {
+    weaponUrl:""
     name: "Oathsworn Eye",
     type: "Catalyst",
     rarity: 4,
@@ -993,6 +1068,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Polar Star",
     type: "Bow",
     rarity: 5,
@@ -1006,6 +1082,7 @@
     id: "polar-star",
   },
   {
+    weaponUrl:""
     name: "Portable Power Saw",
     type: "Claymore",
     rarity: 4,
@@ -1019,6 +1096,7 @@
     id: "portable-power-saw",
   },
   {
+    weaponUrl:""
     name: "Predator",
     type: "Bow",
     rarity: 4,
@@ -1033,6 +1111,7 @@
     id: "predator",
   },
   {
+    weaponUrl:""
     name: "Primordial Jade Cutter",
     type: "Sword",
     rarity: 5,
@@ -1046,6 +1125,7 @@
     id: "primordial-jade-cutter",
   },
   {
+    weaponUrl:""
     name: "Primordial Jade Winged-Spear",
     type: "Polearm",
     rarity: 5,
@@ -1059,6 +1139,7 @@
     id: "primordial-jade-winged-spear",
   },
   {
+    weaponUrl:""
     name: "Prospector's Drill",
     type: "Polearm",
     rarity: 4,
@@ -1072,6 +1153,7 @@
     id: "prospectors-drill",
   },
   {
+    weaponUrl:""
     name: "Prototype Amber",
     type: "Catalyst",
     rarity: 4,
@@ -1085,6 +1167,7 @@
     id: "prototype-amber",
   },
   {
+    weaponUrl:""
     name: "Prototype Archaic",
     type: "Claymore",
     rarity: 4,
@@ -1098,6 +1181,7 @@
     id: "prototype-archaic",
   },
   {
+    weaponUrl:""
     name: "Prototype Crescent",
     type: "Bow",
     rarity: 4,
@@ -1111,6 +1195,7 @@
     id: "prototype-crescent",
   },
   {
+    weaponUrl:""
     name: "Prototype Starglitter",
     type: "Polearm",
     rarity: 4,
@@ -1124,6 +1209,7 @@
     id: "prototype-grudge",
   },
   {
+    weaponUrl:""
     name: "Prototype Amber",
     type: "Catalyst",
     rarity: 4,
@@ -1137,6 +1223,7 @@
     id: "prototype-malice",
   },
   {
+    weaponUrl:""
     name: "Prototype Rancour",
     type: "Sword",
     rarity: 4,
@@ -1150,6 +1237,7 @@
     id: "prototype-rancour",
   },
   {
+    weaponUrl:""
     name: "Prototype Starglitter",
     type: "polearm",
     rarity: 4,
@@ -1164,6 +1252,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Rainslasher",
     type: "Claymore",
     rarity: 4,
@@ -1177,6 +1266,7 @@
     id: "rainslasher",
   },
   {
+    weaponUrl:""
     name: "Range Gauge",
     type: "Bow",
     rarity: 4,
@@ -1191,6 +1281,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Redhorn Stonethresher",
     type: "Claymore",
     rarity: 5,
@@ -1204,6 +1295,7 @@
     id: "redhorn-stonethresher",
   },
   {
+    weaponUrl:""
     name: "Rightful Reward",
     type: "Polearm",
     rarity: 4,
@@ -1217,6 +1309,7 @@
     id: "rightful-reward",
   },
   {
+    weaponUrl:""
     name: "Royal Bow",
     type: "Bow",
     rarity: 4,
@@ -1230,6 +1323,7 @@
     id: "royal-bow",
   },
   {
+    weaponUrl:""
     name: "Royal Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -1243,6 +1337,7 @@
     id: "royal-greatsword",
   },
   {
+    weaponUrl:""
     name: "Royal Grimoire",
     type: "Catalyst",
     rarity: 4,
@@ -1256,6 +1351,7 @@
     id: "royal-grimoire",
   },
   {
+    weaponUrl:""
     name: "Royal Longsword",
     type: "Sword",
     rarity: 4,
@@ -1269,6 +1365,7 @@
     id: "royal-longsword",
   },
   {
+    weaponUrl:""
     name: "Royal Spear",
     type: "Polearm",
     rarity: 4,
@@ -1281,6 +1378,7 @@
     id: "royal-spear",
   },
   {
+    weaponUrl:""
     name: "Rust",
     type: "Bow",
     rarity: 4,
@@ -1294,6 +1392,7 @@
     id: "rust",
   },
   {
+    weaponUrl:""
     name: "Sacrificial Bow",
     type: "Bow",
     rarity: 4,
@@ -1307,6 +1406,7 @@
     id: "sacrificial-bow",
   },
   {
+    weaponUrl:""
     name: "Sacrificial Fragments",
     type: "Catalyst",
     rarity: 4,
@@ -1320,6 +1420,7 @@
     id: "sacrificial-fragments",
   },
   {
+    weaponUrl:""
     name: "Sacrificial Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -1333,6 +1434,7 @@
     id: "sacrificial-greatsword",
   },
   {
+    weaponUrl:""
     name: "Sacrificial Jade",
     type: "Catalyst",
     rarity: 4,
@@ -1346,6 +1448,7 @@
     id: "sacrificial-jade",
   },
   {
+    weaponUrl:""
     name: "Sacrificial Sword",
     type: "Sword",
     rarity: 4,
@@ -1359,6 +1462,7 @@
     id: "sacrificial-sword",
   },
   {
+    weaponUrl:""
     name: "Sapwood Blade",
     type: "Sword",
     rarity: 4,
@@ -1372,6 +1476,7 @@
     id: "sapwood-blade",
   },
   {
+    weaponUrl:""
     name: "Scion Of The Blazing Sun",
     type: "Bow",
     rarity: 4,
@@ -1384,8 +1489,9 @@
     ascensionMaterial: "Echo Of Scorching Might",
     id: "scion-of-the-blazing-sun",
   },
-  ,
+  
   {
+    weaponUrl:""
     name: "Serpent Spine",
     type: "Claymore",
     rarity: 4,
@@ -1400,6 +1506,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Skyward Atlas",
     type: "Catalyst",
     rarity: 5,
@@ -1413,6 +1520,7 @@
     id: "skyward-atlas",
   },
   {
+    weaponUrl:""
     name: "Skyward Blade",
     type: "Sword",
     rarity: 5,
@@ -1426,6 +1534,7 @@
     id: "skyward-blade",
   },
   {
+    weaponUrl:""
     name: "Skyward Harp",
     type: "Bow",
     rarity: 5,
@@ -1439,6 +1548,7 @@
     id: "skyward-harp",
   },
   {
+    weaponUrl:""
     name: "Skyward Pride",
     type: "Claymore",
     rarity: 5,
@@ -1452,6 +1562,7 @@
     id: "skyward-pride",
   },
   {
+    weaponUrl:""
     name: "Skyward Spine",
     type: "Polearm",
     rarity: 5,
@@ -1466,6 +1577,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Snow-Tombed Starsilver",
     type: "Claymore",
     rarity: 4,
@@ -1479,6 +1591,7 @@
     id: "snow-tombed-starsilver",
   },
   {
+    weaponUrl:""
     name: "Solar Pearl",
     type: "Catalyst",
     rarity: 4,
@@ -1492,6 +1605,7 @@
     id: "solar-pearl",
   },
   {
+    weaponUrl:""
     name: "Song of Broken Pines",
     type: "Claymore",
     rarity: 5,
@@ -1505,6 +1619,7 @@
     id: "song-of-broken-pines",
   },
   {
+    weaponUrl:""
     name: "Song Of Stillness",
     type: "Bow",
     rarity: 4,
@@ -1518,6 +1633,7 @@
     id: "song-of-stillness",
   },
   {
+    weaponUrl:""
     name: "Splendor of Tranquil Waters",
     type: "Sword",
     rarity: 5,
@@ -1531,6 +1647,7 @@
     id: "splendor-of-tranquil-waters",
   },
   {
+    weaponUrl:""
     name: "Staff of Homa",
     type: "Polearm",
     rarity: 5,
@@ -1544,6 +1661,7 @@
     id: "staff-of-homa",
   },
   {
+    weaponUrl:""
     name: "Moonpiercer",
     type: "Polearm",
     rarity: 5,
@@ -1557,6 +1675,7 @@
     id: "staff-of-the-scarlet-sands",
   },
   {
+    weaponUrl:""
     name: "Summit Shaper",
     type: "Sword",
     rarity: 5,
@@ -1570,6 +1689,7 @@
     id: "summit-shaper",
   },
   {
+    weaponUrl:""
     name: "Sword of Descension",
     type: "Sword",
     rarity: 4,
@@ -1584,6 +1704,7 @@
     id: "sword-of-descension",
   },
   {
+    weaponUrl:""
     name: "Talking Stick",
     type: "Claymore",
     rarity: 4,
@@ -1597,6 +1718,7 @@
     id: "talking-stick",
   },
   {
+    weaponUrl:""
     name: "The Alley Flash",
     type: "Sword",
     rarity: 4,
@@ -1610,6 +1732,7 @@
     id: "the-alley-flash",
   },
   {
+    weaponUrl:""
     name: "The Bell",
     type: "Claymore",
     rarity: 4,
@@ -1623,6 +1746,7 @@
     id: "the-bell",
   },
   {
+    weaponUrl:""
     name: "The Black Sword",
     type: "Sword",
     rarity: 4,
@@ -1636,6 +1760,7 @@
     id: "the-black-sword",
   },
   {
+    weaponUrl:""
     name: "The Catch",
     type: "Polearm",
     rarity: 4,
@@ -1648,6 +1773,7 @@
     id: "the-catch",
   },
   {
+    weaponUrl:""
     name: "The Dockhand's Assistant",
     type: "Sword",
     rarity: 4,
@@ -1661,6 +1787,7 @@
     id: "the-dockhands-assistant",
   },
   {
+    weaponUrl:""
     name: "The First Great Magic",
     type: "Bow",
     rarity: 5,
@@ -1674,6 +1801,7 @@
     id: "the-first-great-magic",
   },
   {
+    weaponUrl:""
     name: "The Flute",
     type: "Sword",
     rarity: 4,
@@ -1687,6 +1815,7 @@
     id: "the-flute",
   },
   {
+    weaponUrl:""
     name: "The Stringless",
     type: "Bow",
     rarity: 4,
@@ -1700,6 +1829,7 @@
     id: "the-stringless",
   },
   {
+    weaponUrl:""
     name: "The Unforged",
     type: "Claymore",
     rarity: 5,
@@ -1712,6 +1842,7 @@
     id: "the-unforged",
   },
   {
+    weaponUrl:""
     name: "The Viridescent Hunt",
     type: "Bow",
     rarity: 4,
@@ -1725,6 +1856,7 @@
     id: "the-viridescent-hunt",
   },
   {
+    weaponUrl:""
     name: "The Widsith",
     type: "Catalyst",
     rarity: 4,
@@ -1739,6 +1871,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Thundering Pulse",
     type: "Bow",
     rarity: 5,
@@ -1752,6 +1885,7 @@
     id: "thundering-pulse",
   },
   {
+    weaponUrl:""
     name: "Tidal Shadow",
     type: "Claymore",
     rarity: 4,
@@ -1765,6 +1899,7 @@
     id: "tidal-shadow",
   },
   {
+    weaponUrl:""
     name: "Tome of the Eternal Flow",
     type: "Catalyst",
     rarity: 5,
@@ -1778,6 +1913,7 @@
     id: "tome-of-the-eternal",
   },
   {
+    weaponUrl:""
     name: "Toukabou Shigure",
     type: "Sword",
     rarity: 4,
@@ -1792,6 +1928,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Tulaytullah's Remembrance",
     type: "Catalyst",
     rarity: 5,
@@ -1806,6 +1943,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Ultimate Overlord's Mega Magic Sword",
     type: "Claymore",
     rarity: 4,
@@ -1819,6 +1957,7 @@
     id: "ultimate-overlord-s-mega-magic-sword",
   },
   {
+    weaponUrl:""
     name: "Uraku Misugiri",
     type: "Sword",
     rarity: 5,
@@ -1832,6 +1971,7 @@
     id: "uraku-misugiri",
   },
   {
+    weaponUrl:""
     name: "Verdict",
     type: "Claymore",
     rarity: 5,
@@ -1845,6 +1985,7 @@
     id: "verdict",
   },
   {
+    weaponUrl:""
     name: "Vortex Vanquisher",
     type: "Polearm",
     rarity: 5,
@@ -1858,6 +1999,7 @@
     id: "vortex-vanquisher",
   },
   {
+    weaponUrl:""
     name: "Wandering Evenstar",
     type: "Catalyst",
     rarity: 4,
@@ -1872,6 +2014,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Wavebreaker's Fin",
     type: "Polearm",
     rarity: 4,
@@ -1886,6 +2029,7 @@
   },
 
   {
+    weaponUrl:""
     name: "Whiteblind",
     type: "Claymore",
     rarity: 4,
@@ -1899,6 +2043,7 @@
     id: "whiteblind",
   },
   {
+    weaponUrl:""
     name: "Windblume Ode",
     type: "Bow",
     rarity: 4,
@@ -1912,6 +2057,7 @@
     id: "windblume-ode",
   },
   {
+    weaponUrl:""
     name: "Wine and Song",
     type: "Catalyst",
     rarity: 4,
@@ -1925,6 +2071,7 @@
     id: "wine-and-song",
   },
   {
+    weaponUrl:""
     name: "Wolf-Fang",
     type: "Sword",
     rarity: 4,
@@ -1938,6 +2085,7 @@
     id: "wolf-fang",
   },
   {
+    weaponUrl:""
     name: "Wolf's Gravestone",
     type: "Claymore",
     rarity: 5,
@@ -1951,6 +2099,7 @@
     id: "wolf-s-gravestone",
   },
   {
+    weaponUrl:""
     name: "Xiphos' Moonlight",
     type: "Sword",
     rarity: 4,
