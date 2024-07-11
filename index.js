@@ -5,8 +5,10 @@ import cors from "cors";
 import helmet from "helmet";
 import bodyParser from "body-parser";
 import Character from "./models/Character.js";
-import Weapons from "./models/Weapons.js"
+import Weapons from "./models/Weapons.js";
 import connectDb from "./connectDb.js";
+import Artifact from "./models/Artifacts.js";
+import Video from "./models/Videos.js";
 
 await connectDb();
 
@@ -67,9 +69,8 @@ app.post("/characters", async (req, res) => {
 });
 
 // All characters
-app.get('/characters', async (req, res) => {
- 
-  const characters = await Character.find({}) // 1 model / null
+app.get("/characters", async (req, res) => {
+  const characters = await Character.find({}); // 1 model / null
 
   res.status(200).json(characters);
 });
@@ -106,7 +107,6 @@ app.put("/characters/:id", async (req, res) => {
     (character) => character.id === id
   );
 
-
   if (charactersIndex === -1) {
     /// mixed ung characters! so panow?
 
@@ -126,27 +126,26 @@ app.put("/characters/:id", async (req, res) => {
 });
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-app.get('/weapons', async (req, res) => {
- 
-  const weapons = await Weapons.find({}) // 1 model / null
+// get all weapons
+app.get("/weapons", async (req, res) => {
+  const weapons = await Weapons.find({}); // 1 model / null
 
   res.status(200).json(weapons);
 });
 
+// fetch the details
 app.post("/weapons", async (req, res) => {
   const {
-   weaponUrl,
-   name,
-   type,
-   rarity,
-   substat,
-   location,
-   ascensionMaterial,
+    weaponUrl,
+    name,
+    type,
+    rarity,
+    substat,
+    location,
+    ascensionMaterial,
   } = req.body;
 
-  const weapons = new Character({
+  const weapons = new Weapon({
     name: name,
     weaponUrl: weaponUrl,
     type: type,
@@ -162,8 +161,95 @@ app.post("/weapons", async (req, res) => {
     message: "Successfully created Characters",
     data: weapons,
   });
+});
+///////////////////////////////////////////////////////////
+
+// get all artifacts!!!
+app.get("/artifacts", async (req, res) => {
+  const artifacts = await Artifact.find({}); // 1 model / null
+
+  res.status(200).json(artifacts);
+});
+
+//get all artifacts details!!!
+
+app.get("/artifacts", async (req, res) => {
+  const {
+    artifactUrl1,
+    artifactUrl2,
+    artifactUrl3,
+    artifactUrl4,
+    artifactUrl5,
+    option1,
+    option2,
+    rarity,
+  } = req.body;
+
+  const artifact = new Artifact({
+    artifactUrl1: artifactUrl1,
+    artifactUrl2: artifactUrl2,
+    artifactUrl3: artifactUrl3,
+    artifactUrl4: artifactUrl4,
+    artifactUrl5: artifactUrl5,
+    option1: option1,
+    option2: option2,
+    rarity,
+  });
+
+  await artifact.save();
+
+  res.status(200).json(Artifact);
+});
+
+
+///////////////////////////////////////////////////////////
+
+app.get("/videos", async (req, res) => {
+  const videos = await Video.find({}); // 1 model / null
+
+  res.status(200).json(videos);
+});
+
+
+app.get("/videos", async (req,res)=>{
+  const {
+   name,
+   videoUrl,
+  } = req.body;
+
+  const video = new Video({
+    name: name,
+    videoUrl: videoUrl
+  });
+
+
+
+  await video.save();
+
+  res.status(200).json(Video);
 
 })
+
+
+
+
+
+
+
+
+
+
+
+
+//
+//
+//
+//
+//
+
+///
+//
+//
 
 app.listen(PORT, () => {
   console.log(`App is listening to port ${PORT}`);

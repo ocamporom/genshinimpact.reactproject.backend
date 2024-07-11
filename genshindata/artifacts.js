@@ -1,5 +1,6 @@
 [
   {
+    artifactUrl: "",
     name: "Archaic Petra",
     max_rarity: 5,
     "2-piece_bonus": "Gain a 15% Geo DMG Bonus.",
