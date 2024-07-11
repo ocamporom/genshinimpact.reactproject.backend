@@ -5,6 +5,7 @@ import cors from "cors";
 import helmet from "helmet";
 import bodyParser from "body-parser";
 import Character from "./models/Character.js";
+import Weapons from "./models/Weapons.js"
 import connectDb from "./connectDb.js";
 
 await connectDb();
@@ -124,6 +125,15 @@ app.put("/characters/:id", async (req, res) => {
   res.send("this is an update");
 });
 
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+app.get('/weapons', async (req, res) => {
+ 
+  const weapons = await Weapons.find({}) // 1 model / null
+
+  res.status(200).json(weapons);
+});
 
 app.post("/weapons", async (req, res) => {
   const {
