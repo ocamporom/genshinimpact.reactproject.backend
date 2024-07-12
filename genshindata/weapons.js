@@ -1,7 +1,7 @@
 [
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699442/a-thousand-floating-dreams_oxhf1h.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808057/a_thousand_floating_dreams_qtgpcg.webp",
     name: "A Thousand Floating Dreams",
     type: "Catalyst",
     rarity: 5,
@@ -16,7 +16,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699434/akuoumaru_r8jm1q.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808060/akoumaru_bc4fww.webp",
     name: "Akuoumaru",
     type: "Claymore",
     rarity: 4,
@@ -31,7 +31,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699435/alley-hunter_alcxmz.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808060/alley_hunter_r1d1iq.webp",
     name: "Alley Hunter",
     type: "Bow",
     rarity: 4,
@@ -47,7 +47,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699435/amenoma-kageuchi_mqdabd.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808060/amenoma_dwqjrp.webp",
     name: "Amenoma Kageuchi",
     type: "Sword",
     rarity: 4,
@@ -62,7 +62,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699435/amos-bow_f4thp6.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808064/amos_bow_rdzuyy.webp",
     name: "Amos' Bow",
     type: "Bow",
     rarity: 5,
@@ -78,7 +78,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699435/aqua-simulacra_sfpwig.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808064/aqua_simulacra_abhd4v.webp",
     name: "Aqua Simulacra",
     type: "Bow",
     rarity: 5,
@@ -93,7 +93,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699435/aquila-favonia_vrfzdj.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808065/aquila_favonia_jdp81s.webp",
     name: "Aquila Favonia",
     type: "Sword",
     rarity: 5,
@@ -108,7 +108,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699522/ballad-of-the-boundless-blue_yq6k28.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808066/ballad_of_the_boundless_blue_l4cqeb.webp",
     name: "Ballad of the Boundless Blue",
     type: "Catalyst",
     rarity: 4,
@@ -123,7 +123,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699522/ballad-of-the-fjords_bw6s1c.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808070/ballad_of_the_fjords_fu7rzy.webp",
     name: "Ballad Of The Fjords",
     type: "Polearm",
     rarity: 4,
@@ -138,7 +138,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699524/beacon-of-the-reed-sea_qjyfpm.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808065/bacon_of_the_reed_sea_h6coeb.webp",
     name: "Beacon of the Reed Sea",
     type: "Claymore",
     rarity: 5,
@@ -154,7 +154,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698418/blackcliff-agate_cjguj1.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808076/Blackcliff_Agate__f3oppe.webp",
     name: "Blackcliff Agate",
     type: "Catalyst",
     rarity: 4,
@@ -170,7 +170,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698418/blackcliff-longsword_qtfxcd.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808071/blackcliff_longsword_j1wzb5.webp",
     name: "Blackcliff Longsword",
     type: "Sword",
     rarity: 4,
@@ -185,7 +185,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/blackcliff-pole_qtmmpv.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808072/blackcliff_pole_gcngy9.webp",
     name: "Blackcliff Pole",
     type: "Polearm",
     rarity: 4,
@@ -200,7 +200,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698418/blackcliff-slasher_mu8gf1.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808073/blackcliff_slasher_cludci.webp",
     name: "Blackcliff Slasher",
     type: "Claymore",
     rarity: 4,
@@ -215,7 +215,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/blackcliff-warbow_qy25ox.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808076/Blackcliff_Warbow_ihtk8p.webp",
     name: "Blackcliff Warbow",
     type: "Bow",
     rarity: 4,
@@ -231,7 +231,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698418/calamity-queller_vpo5q3.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808077/calamity_queller_okkmpk.webp",
     name: "Calamity Queller",
     type: "Polearm",
     rarity: 5,
@@ -246,7 +246,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/cashflow-supervision_it3rkq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808080/cashflow_supervision_kioqe6.webp",
     name: "Cashflow Supervision",
     type: "Catalyst",
     rarity: 5,
@@ -261,7 +261,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/cinnabar-spindle_oxprno.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808081/cinnabar_spindle_v62c65.webp",
     name: "Cinnabar Spindle",
     type: "Sword",
     rarity: 4,
@@ -276,7 +276,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/compound-bow_fvcomz.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808081/compound_bow_hcmm2i.webp",
     name: "Compound Bow",
     type: "Bow",
     rarity: 4,
@@ -292,7 +292,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698419/crane-s-echoing-call_pkprrd.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808082/cranes_echoing_call_g38mjn.webp",
     name: "Crane's Echoing Call",
     type: "Catalyst",
     rarity: 5,
@@ -307,7 +307,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698420/crescent-pike_slobug.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808088/crescent_pike_fxq9vd.webp",
     name: "Crescent Pike",
     type: "Polearm",
     rarity: 4,
@@ -322,7 +322,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698420/crimson_moon_semblance_ipllxj.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808088/crimson_moon_semblance_eryyeh.webp",
     name: "Crimson Moon's Semblance",
     type: "Polearm",
     rarity: 5,
@@ -338,7 +338,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698426/deathmatch_gnwibn.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808089/deathmatch_bnncdh.webp",
     name: "Deathmatch",
     type: "Polearm",
     rarity: 4,
@@ -354,7 +354,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698426/dialogues-of-the-desert-sages_powyng.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808089/dialogue_of_the_desert_sages_q1g20u.webp",
     name: "Dialogues of the Desert Sages",
     type: "Polearm",
     rarity: 4,
@@ -369,7 +369,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698426/dodoco-tales_vo7x4k.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808089/dodoco_tales_jd2apg.webp",
     name: "Dodoco Tales",
     type: "Catalyst",
     rarity: 4,
@@ -384,7 +384,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698431/dragons_bane_vegplj.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808095/dragons_bane_xqo0ex.webp",
     name: "Dragon's Bane",
     type: "Polearm",
     rarity: 4,
@@ -399,7 +399,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/dragonspine-spear_qr2xce.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808096/dragonspine_spear_hd3f1c.webp",
     name: "Dragonspine Spear",
     type: "Polearm",
     rarity: 4,
@@ -415,7 +415,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/elegy-for-the-end_w61kfu.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808096/Elegy_for_the_End_d1tlhz.webp",
     name: "Elegy for the End",
     type: "Bow",
     rarity: 5,
@@ -431,7 +431,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/end-of-the-line_howqux.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808096/end_of_the_line_y1zwc2.webp",
     name: "End of the Line",
     type: "Bow",
     rarity: 4,
@@ -446,7 +446,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/engulfing_lightning_gp47gh.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808097/Engulfing_Lightning_wmamuz.webp",
     name: "Engulfing Lightning",
     type: "Polearm",
     rarity: 5,
@@ -461,7 +461,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698433/everlasting_moonglow_uww1dc.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808103/everlasting_moonglow_hfhteh.webp",
     name: "Everlasting Moonglow",
     type: "Catalyst",
     rarity: 5,
@@ -476,7 +476,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/eye_of_perception_grpx1c.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808104/eye_of_perception_uqmhuy.webp",
     name: "Eye of Perception",
     type: "Catalyst",
     rarity: 4,
@@ -491,7 +491,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/fading_twilight_oglogj.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808104/Fading_Twilight_waavpm.webp",
     name: "Fading Twilight",
     type: "Bow",
     rarity: 4,
@@ -506,7 +506,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698432/favonius-codex_nfbonb.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808104/favonius_codex_uxrvae.webp",
     name: "Favonius Codex",
     type: "Catalyst",
     rarity: 4,
@@ -521,7 +521,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698466/favonius-greatsword_cj1nmc.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808104/favonius_greatsword_gstiz1.webp",
     name: "Favonius Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -536,7 +536,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698505/favonius-lance_u37len.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808111/Favonius_Lance_mbx6lc.webp",
     name: "Favonius Lance",
     type: "Polearm",
     rarity: 4,
@@ -551,7 +551,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698595/favonius-sword_mohbv4.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808110/favonius_sword_pcrsmu.webp",
     name: "Favonius Sword",
     type: "Sword",
     rarity: 4,
@@ -566,7 +566,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698595/favonius-warbow_wyzntq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808111/favonius_warbow_mfbb2w.webp",
     name: "Favonius Warbow",
     type: "Bow",
     rarity: 4,
@@ -582,7 +582,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698596/festering-desire_xust1q.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808111/festering_desire_gxmoq0.webp",
     name: "Festering Desire",
     type: "Sword",
     rarity: 4,
@@ -598,7 +598,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698596/finale_of_the_deep_vkjh3t.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808116/finale_of_the_deep_z3gier.webp",
     name: "Finale Of The Deep",
     type: "Sword",
     rarity: 4,
@@ -613,7 +613,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698597/fleuve-cendre-ferryman_yet9ih.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808116/fleuve_cendre_qfukmu.webp",
     name: "Fleuve Cendre Ferryman",
     type: "Sword",
     rarity: 4,
@@ -628,7 +628,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698596/flowing-purity_ttzovx.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808117/flowing_purity_ikdstw.webp",
     name: "Flowing Purity",
     type: "Catalyst",
     rarity: 4,
@@ -643,7 +643,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698611/forest_regalia_z5t6r3.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808120/forest_regalia_n5oq9p.webp",
     name: "Forest Regalia",
     type: "Claymore",
     rarity: 4,
@@ -658,7 +658,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698611/freedom-sworn_pus5ey.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808123/freedom_sworn_ooawmj.webp",
     name: "Freedom-Sworn",
     type: "Sword",
     rarity: 5,
@@ -673,7 +673,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698612/frostbearer_mdbdfg.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720804901/frostbearer_norvwp.webp",
     name: "Frostbearer",
     type: "Catalyst",
     rarity: 4,
@@ -688,7 +688,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698613/fruit_of_fulfillment_pnhede.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808123/fruit_of_fulfillment_boa2ur.webp",
     name: "Fruit of Fulfillment",
     type: "Catalyst",
     rarity: 4,
@@ -703,7 +703,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698613/hakushin_ring_zxways.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720805162/hakushin_ring_n8l4ar.webp",
     name: "Hakushin Ring",
     type: "Catalyst",
     rarity: 4,
@@ -719,7 +719,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698614/hamayumi_qk034t.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808128/hamayumi_w3assk.webp",
     name: "Hamayumi",
     type: "Bow",
     rarity: 4,
@@ -734,7 +734,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698614/hamayumi_qk034t.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808129/haran_geppaku_futsu_g0jblf.webp",
     name: "Haran Geppaku Futsu",
     type: "Sword",
     rarity: 5,
@@ -750,7 +750,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698621/hunters-path_guhl2i.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808129/Hunters_path_hqamjn.webp",
     name: "Hunter's Path",
     type: "Bow",
     rarity: 5,
@@ -765,7 +765,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698623/ibis-piercer_pxc9oq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808129/ibis_piercer_zg80u9.webp",
     name: "Ibis Piercer",
     type: "Bow",
     rarity: 4,
@@ -781,7 +781,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698623/jadefalls_splendor_xtm1sq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808130/jadefalls_splendor_j4ul0k.webp",
     name: "Jadefall's Splendor",
     type: "Catalyst",
     rarity: 5,
@@ -796,7 +796,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698634/kagotsurube_isshin_xi3hru.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808135/kagotsurube_isshin_mvsfi6.webp",
     name: "Kagotsurube Isshin",
     type: "Sword",
     rarity: 4,
@@ -811,7 +811,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720701811/Kaguras_verity_pxlvxs.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808135/kaguras_verity_pclnzm.webp",
     name: "Kagura's Verity",
     type: "Catalyst",
     rarity: 5,
@@ -826,7 +826,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698634/Katsuragikiri_Nagamasa_unutbw.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808136/katsuragikiri_nagamasa_vtfewt.webp",
     name: "Katsuragikiri Nagamasa",
     type: "Claymore",
     rarity: 4,
@@ -841,7 +841,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698634/Key_of_Khaj-nisut_gwd1h7.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808139/key_of_khaz_nisut_jnijy4.webp",
     name: "Key of Khaj-Nisut",
     type: "Sword",
     rarity: 5,
@@ -856,7 +856,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698635/Kings_Squire_w1ft4k.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808139/kings_squire_errnp6.webp",
     name: "King's Squire",
     type: "Bow",
     rarity: 4,
@@ -871,7 +871,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698635/Kitain_Cross_Spear_pdjln0.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808140/kitain_cross_spear_wdw8nu.webp",
     name: "Kitain Cross Spear",
     type: "Polearm",
     rarity: 4,
@@ -886,7 +886,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698635/light_of_Foliar_incision_tbrcsw.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808144/light_of_foliar_incision_zkk6du.webp",
     name: "Light of Foliar Incision",
     type: "Sword",
     rarity: 5,
@@ -901,7 +901,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698635/Lions_Roar_u5laaf.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808144/lions_roar_eku8wb.webp",
     name: "Lion's Roar",
     type: "Sword",
     rarity: 4,
@@ -916,7 +916,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698635/Lithic_Blade_tjiwpt.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808145/lithic_blade_p9fph0.webp",
     name: "Lithic Blade",
     type: "Claymore",
     rarity: 4,
@@ -931,7 +931,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720702024/lithic_spear_txde0r.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808148/lithic_spear_sh1kwb.webp",
     name: "Lithic Spear",
     type: "Polearm",
     rarity: 4,
@@ -946,7 +946,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698645/lost_prayer_to_the_sacred_winds_veeqwc.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808149/lost_prayer_to_the_sacred_winds_x2bqwx.webp",
     name: "Lost Prayer to the Sacred Winds",
     type: "Catalyst",
     rarity: 5,
@@ -961,7 +961,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/luxurious_sea_lord_m5vgqp.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808152/luxurious_sealords_rapvm3.webp",
     name: "Luxurious Sea-Lord",
     type: "Claymore",
     rarity: 4,
@@ -977,7 +977,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/mailed_flower_bo0dbq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808152/mailed_flower_bjlyhr.webp",
     name: "Mailed Flower",
     type: "Claymore",
     rarity: 4,
@@ -992,7 +992,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/makhaira_aquamarine_vsgndb.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808153/Makhaira_Aquamarine_xohuud.webp",
     name: "Makhaira Aquamarine",
     type: "Claymore",
     rarity: 4,
@@ -1007,7 +1007,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/mappa_mare_nt0gnk.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808156/mappa_mare_om5ecz.webp",
     name: "Mappa Mare",
     type: "Catalyst",
     rarity: 4,
@@ -1022,7 +1022,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/memory_of_dust_dwk4r5.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808157/Memory_of_Dust_tkhnhu.webp",
     name: "Memory of Dust",
     type: "Catalyst",
     rarity: 5,
@@ -1038,7 +1038,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698674/missive_windspear_dv6h92.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808157/missive_windspear_tu8pwg.webp",
     name: "Missive Windspear",
     type: "Polearm",
     rarity: 4,
@@ -1053,7 +1053,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698675/mitsplitter_reforged_d4dg6a.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808161/mitssplitter_reforged_gz8s7z.webp",
     name: "Mistsplitter Reforged",
     type: "Sword",
     rarity: 5,
@@ -1068,7 +1068,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698675/mitternachtsz_waltz_lfuf48.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808161/Mitternachts_Waltz_2nd_jolzhd.webp",
     name: "Mitternachts Waltz",
     type: "Bow",
     rarity: 4,
@@ -1083,7 +1083,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698675/moonpiercer_d8dmjq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808162/Moonpiercer_j0qtdm.webp",
     name: "Moonpiercer",
     type: "Polearm",
     rarity: 4,
@@ -1098,7 +1098,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698675/mouuns_moon_rr5p44.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808162/mouun_moon_vyqj7b.webp",
     name: "Mouun's Moon",
     type: "Bow",
     rarity: 4,
@@ -1113,7 +1113,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/oathsworn_eye_mp009m.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808168/oathswern_eye_mko9wc.webp",
     name: "Oathsworn Eye",
     type: "Catalyst",
     rarity: 4,
@@ -1129,7 +1129,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/polar_star_nsgoio.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808168/polar_star_kenc8r.webp",
     name: "Polar Star",
     type: "Bow",
     rarity: 5,
@@ -1144,7 +1144,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/portable_power_saw_lpanbv.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808168/portable_power_saw_jr1jmn.webp",
     name: "Portable Power Saw",
     type: "Claymore",
     rarity: 4,
@@ -1159,7 +1159,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/portable_power_saw_lpanbv.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808169/predator_bn21aq.webp",
     name: "Predator",
     type: "Bow",
     rarity: 4,
@@ -1175,7 +1175,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/primordial_jade_cutter_qepybh.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808173/primordial_jade_cutter_ouxxbe.webp",
     name: "Primordial Jade Cutter",
     type: "Sword",
     rarity: 5,
@@ -1190,7 +1190,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698714/primordial_jade_wing_spear_ezsnon.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808174/primordial_jade_winged_spear_dkv4h7.webp",
     name: "Primordial Jade Winged-Spear",
     type: "Polearm",
     rarity: 5,
@@ -1205,7 +1205,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698713/prospectors_drill_byqraq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808175/prospectors_drill_ufpam1.webp",
     name: "Prospector's Drill",
     type: "Polearm",
     rarity: 4,
@@ -1220,7 +1220,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698714/prototype_amber_grl4wf.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808179/Prototype_Amber_2nd_gk1f2e.webp",
     name: "Prototype Amber",
     type: "Catalyst",
     rarity: 4,
@@ -1235,7 +1235,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698715/prototype_archaic_qudqgz.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808179/Prototype_Archaic_j8gfj7.webp",
     name: "Prototype Archaic",
     type: "Claymore",
     rarity: 4,
@@ -1250,7 +1250,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698750/prototype_crescent_zxyxgz.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808180/Prototype_Crescent_2nd_zk07q7.webp",
     name: "Prototype Crescent",
     type: "Bow",
     rarity: 4,
@@ -1265,7 +1265,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698750/prototype_starglitter_ljbvmj.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808180/Prototype_Starglitter_2nd_frvpew.webp",
     name: "Prototype Starglitter",
     type: "Polearm",
     rarity: 4,
@@ -1278,25 +1278,11 @@
     ascensionMaterial: "aerosiderite",
     id: "prototype-grudge",
   },
-  {
-    weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698714/prototype_amber_grl4wf.png",
-    name: "Prototype Amber",
-    type: "Catalyst",
-    rarity: 4,
-    baseAttack: 42,
-    subStat: "HP",
-    passiveName: "Gilding",
-    passiveDesc:
-      "Using an Elemental Burst regenerates 4/4.5/5/5.5/6 Energy every 2s for 6s. Additionally, all party members will regenerate 4/4.5/5/5.5/6% HP every 2s for this duration.",
-    location: "Crafting",
-    ascensionMaterial: "elixir",
-    id: "prototype-malice",
-  },
+ 
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698750/rainslasher_rwas3i.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808180/rainslasher_mywqem.webp",
     name: "Rainslasher",
     type: "Claymore",
     rarity: 4,
@@ -1311,7 +1297,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698750/range_gauge_tam0b1.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808186/range_gauge_g9pnag.webp",
     name: "Range Gauge",
     type: "Bow",
     rarity: 4,
@@ -1327,7 +1313,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698750/redhorne_stonethresher_zrmzyu.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808187/Redhorn_Stonethresher_od8lym.webp",
     name: "Redhorn Stonethresher",
     type: "Claymore",
     rarity: 5,
@@ -1342,7 +1328,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698785/rightful_reward_suqkyh.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808188/rightful_reward_finbqo.webp",
     name: "Rightful Reward",
     type: "Polearm",
     rarity: 4,
@@ -1357,7 +1343,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698786/royal_bow_jwfvoe.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808191/royal_bow_uceas4.webp",
     name: "Royal Bow",
     type: "Bow",
     rarity: 4,
@@ -1372,7 +1358,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698786/royal_greatsword_tup6xo.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808192/royal_greatsword_apvz1l.webp",
     name: "Royal Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -1387,7 +1373,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698843/royal_grimoire_lxlyme.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808196/Royal_Grimoire_jsg0gj.webp",
     name: "Royal Grimoire",
     type: "Catalyst",
     rarity: 4,
@@ -1402,7 +1388,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720702667/royal_longsword_blawvx.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808196/Royal_Longsword_jvgpfu.webp",
     name: "Royal Longsword",
     type: "Sword",
     rarity: 4,
@@ -1417,7 +1403,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698955/royal_spear_e2q0ma.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808192/royal_spear_ohib3k.webp",
     name: "Royal Spear",
     type: "Polearm",
     rarity: 4,
@@ -1431,7 +1417,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/rust_ktikra.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808197/rust_xgcukk.webp",
     name: "Rust",
     type: "Bow",
     rarity: 4,
@@ -1446,7 +1432,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/sacrificial_bow_rwemvr.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807990/sacrificial_bow_acrejj.webp",
     name: "Sacrificial Bow",
     type: "Bow",
     rarity: 4,
@@ -1461,7 +1447,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720702801/sacrificial_fragments_scnknw.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807990/sacrificial_fragments_uubarh.webp",
     name: "Sacrificial Fragments",
     type: "Catalyst",
     rarity: 4,
@@ -1476,7 +1462,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/sacrificial_greatsword_anu1pq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807990/Sacrificial_Greatsword_bxw8qb.webp",
     name: "Sacrificial Greatsword",
     type: "Claymore",
     rarity: 4,
@@ -1491,7 +1477,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698961/sacrificial_jade_gay3qh.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807991/Sacrificial_Jade_tns91q.webp",
     name: "Sacrificial Jade",
     type: "Catalyst",
     rarity: 4,
@@ -1506,7 +1492,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/sacrificial_sword_oozimf.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807991/Sacrificial_Sword_2nd_vn5jod.webp",
     name: "Sacrificial Sword",
     type: "Sword",
     rarity: 4,
@@ -1521,7 +1507,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/sapwood_blade_ddt0cq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807991/sapwood_blade_shyw8j.webp",
     name: "Sapwood Blade",
     type: "Sword",
     rarity: 4,
@@ -1536,7 +1522,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/scion_of_the_blazing_sun_fdvule.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807994/scrion_of_the_blazing_sun_xrdlnl.webp",
     name: "Scion Of The Blazing Sun",
     type: "Bow",
     rarity: 4,
@@ -1552,7 +1538,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698956/scion_of_the_blazing_sun_fdvule.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807994/Serpent_Spine_drx86x.webp",
     name: "Serpent Spine",
     type: "Claymore",
     rarity: 4,
@@ -1568,7 +1554,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699003/skyward_atlas_wx4doc.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807995/Skyward_Atlas_2nd_vjgirt.webp",
     name: "Skyward Atlas",
     type: "Catalyst",
     rarity: 5,
@@ -1583,7 +1569,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699047/skyward_sword_qi9tgq.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807995/Skyward_Blade_tgaae5.webp",
     name: "Skyward Blade",
     type: "Sword",
     rarity: 5,
@@ -1598,7 +1584,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699002/skyward_harp_a7b46t.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720807995/Skyward_Harp_hzpn1p.webp",
     name: "Skyward Harp",
     type: "Bow",
     rarity: 5,
@@ -1612,7 +1598,7 @@
     id: "skyward-harp",
   },
   {
-    weaponUrl: "",
+    weaponUrl: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808005/Skyward_Pride_dukaaz.webp",
     name: "Skyward Pride",
     type: "Claymore",
     rarity: 5,
@@ -1627,7 +1613,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699003/skyward_pride_iu8pda.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808006/Skyward_Spine_k9ctpk.webp",
     name: "Skyward Spine",
     type: "Polearm",
     rarity: 5,
@@ -1643,7 +1629,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699054/snow-tombed_starsilver_ifro64.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808006/Snow-Tombed_Starsilver_aqd85l.webp",
     name: "Snow-Tombed Starsilver",
     type: "Claymore",
     rarity: 4,
@@ -1658,7 +1644,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699054/solar_pearl_sphc6s.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720809602/Solar_Pearl_gcbkra.webp",
     name: "Solar Pearl",
     type: "Catalyst",
     rarity: 4,
@@ -1673,7 +1659,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699055/song_of_the_broken_spine_ndhqj0.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808007/Song_of_Broken_Pines_shmgti.webp",
     name: "Song of Broken Pines",
     type: "Claymore",
     rarity: 5,
@@ -1687,7 +1673,7 @@
     id: "song-of-broken-pines",
   },
   {
-    weaponUrl: "",
+    weaponUrl: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808011/Song_of_Stillness_szheba.webp",
     name: "Song Of Stillness",
     type: "Bow",
     rarity: 4,
@@ -1702,7 +1688,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699055/song_of_stillness_snnhdk.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808011/Splendor_of_Tranquil_Waters_2nd_ykzvbn.webp",
     name: "Splendor of Tranquil Waters",
     type: "Sword",
     rarity: 5,
@@ -1717,7 +1703,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/staff_of_homa_upz6yw.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808012/Staff_of_Homa_2nd_dmsaec.webp",
     name: "Staff of Homa",
     type: "Polearm",
     rarity: 5,
@@ -1730,24 +1716,10 @@
     ascensionMaterial: "aerosiderite",
     id: "staff-of-homa",
   },
+
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720698675/moonpiercer_d8dmjq.png",
-    name: "Moonpiercer",
-    type: "Polearm",
-    rarity: 5,
-    baseAttack: 44,
-    subStat: "CRIT Rate",
-    passiveName: "Heat Haze at Horizon's End",
-    passiveDesc:
-      "The equipping character gains 52% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 28% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-    location: "Gacha",
-    ascensionMaterial: "oasis",
-    id: "staff-of-the-scarlet-sands",
-  },
-  {
-    weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699124/summit_shaper_xdult8.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808015/Summit_Shaper_h7x3lg.webp",
     name: "Summit Shaper",
     type: "Sword",
     rarity: 5,
@@ -1762,7 +1734,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/sword_of_descensin_hjvh9u.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808016/Sword_of_Descension_rfemqg.webp",
     name: "Sword of Descension",
     type: "Sword",
     rarity: 4,
@@ -1778,7 +1750,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/talking_stick_sttau4.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808016/Talking_Stick_2nd_rqujym.webp",
     name: "Talking Stick",
     type: "Claymore",
     rarity: 4,
@@ -1793,7 +1765,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/the_alley_flash_px0ene.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808019/the_alley_flash_knt4gp.webp",
     name: "The Alley Flash",
     type: "Sword",
     rarity: 4,
@@ -1808,7 +1780,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/the_bell_op4ps9.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808020/the_bell_rbsf4h.webp",
     name: "The Bell",
     type: "Claymore",
     rarity: 4,
@@ -1823,7 +1795,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699125/the_black_sword_unflw9.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808020/the_black_sword_nodp1w.webp",
     name: "The Black Sword",
     type: "Sword",
     rarity: 4,
@@ -1838,7 +1810,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699126/the_catch_ogddto.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808025/the_catch_mapied.webp",
     name: "The Catch",
     type: "Polearm",
     rarity: 4,
@@ -1852,7 +1824,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699205/the_dockhands_assistant_giazeg.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808025/the_dockhands_assistant_wl3dyi.webp",
     name: "The Dockhand's Assistant",
     type: "Sword",
     rarity: 4,
@@ -1867,7 +1839,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/the_first_grand_magic_hc5rzh.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808026/the_first_great_magic_x7u1oa.webp",
     name: "The First Great Magic",
     type: "Bow",
     rarity: 5,
@@ -1882,7 +1854,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/the_flute_blu5qz.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808030/The_Flute_rzye2r.webp",
     name: "The Flute",
     type: "Sword",
     rarity: 4,
@@ -1897,7 +1869,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/the_stringless_f8ijeo.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808026/the_stringless_ro67tv.webp",
     name: "The Stringless",
     type: "Bow",
     rarity: 4,
@@ -1912,7 +1884,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/the_unforged_rwutun.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808030/The_Unforged_jj78tp.webp",
     name: "The Unforged",
     type: "Claymore",
     rarity: 5,
@@ -1926,7 +1898,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/the_viridescent_hunt_dyozyf.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808031/The_Viridescent_Hunt_tuuf4o.webp",
     name: "The Viridescent Hunt",
     type: "Bow",
     rarity: 4,
@@ -1941,7 +1913,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699243/the_widsith_hcgcmp.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808034/The_Widsith_kmj52p.webp",
     name: "The Widsith",
     type: "Catalyst",
     rarity: 4,
@@ -1957,7 +1929,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699242/thundering_pulse_nbe8du.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808034/Thundering_Pulse_2nd_i1haxr.webp",
     name: "Thundering Pulse",
     type: "Bow",
     rarity: 5,
@@ -1972,7 +1944,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699325/tidal_shadow_flucn5.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808035/Tidal_Shadow_mvrnfu.webp",
     name: "Tidal Shadow",
     type: "Claymore",
     rarity: 4,
@@ -1987,7 +1959,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699241/the_eternal_flow_ptxbrg.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808035/Tome_of_the_Eternal_Flow_simtkl.webp",
     name: "Tome of the Eternal Flow",
     type: "Catalyst",
     rarity: 5,
@@ -2002,7 +1974,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699334/toukabu_shigure_rizqvs.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808039/Toukabou_Shigure_giew5r.webp",
     name: "Toukabou Shigure",
     type: "Sword",
     rarity: 4,
@@ -2018,7 +1990,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699335/tulaytullahs_remembrance_isqor6.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808040/Tulaytullah_27s_Remembrance_2nd_gu2xgc.webp",
     name: "Tulaytullah's Remembrance",
     type: "Catalyst",
     rarity: 5,
@@ -2034,7 +2006,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699334/ultimate_overload_mega_magic_sword_lwbzd9.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808040/Ultimate_Overlord_27s_Mega_Magic_Sword_2nd_zxvrqc.webp",
     name: "Ultimate Overlord's Mega Magic Sword",
     type: "Claymore",
     rarity: 4,
@@ -2049,7 +2021,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699334/uraku_misugiri_cc68kg.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808044/Uraku_Misugiri_tzl9nu.webp",
     name: "Uraku Misugiri",
     type: "Sword",
     rarity: 5,
@@ -2064,7 +2036,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699347/verdict_s1pa5a.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808045/Verdict_ezfob8.webp",
     name: "Verdict",
     type: "Claymore",
     rarity: 5,
@@ -2079,7 +2051,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699347/verdict_s1pa5a.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808045/Vortex_Vanquisher_2nd_wr7vsq.webp",
     name: "Vortex Vanquisher",
     type: "Polearm",
     rarity: 5,
@@ -2094,7 +2066,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699364/wandering_evenstar_zregwk.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808045/wandering_evenstar_fbj6sj.webp",
     name: "Wandering Evenstar",
     type: "Catalyst",
     rarity: 4,
@@ -2110,7 +2082,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699364/wavebreakers_fin_jzyppe.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808046/Wavebreaker_Fin_o907zn.webp",
     name: "Wavebreaker's Fin",
     type: "Polearm",
     rarity: 4,
@@ -2126,7 +2098,7 @@
 
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699402/whiteblind_ul6yog.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808050/Whiteblind_llr2n4.webp",
     name: "Whiteblind",
     type: "Claymore",
     rarity: 4,
@@ -2141,7 +2113,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699402/windblume_ode_tytvco.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808051/Windblume_Ode_hae9td.webp",
     name: "Windblume Ode",
     type: "Bow",
     rarity: 4,
@@ -2156,7 +2128,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699403/wine_and_song_lwzbn6.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808051/Wine_and_Song_2nd_ihtrgp.webp",
     name: "Wine and Song",
     type: "Catalyst",
     rarity: 4,
@@ -2171,7 +2143,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699403/wolf-fang_ndfacx.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808052/Wolf-Fang_ad82mv.webp",
     name: "Wolf-Fang",
     type: "Sword",
     rarity: 4,
@@ -2186,7 +2158,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699403/wolf_s_gravestone_sfpiuu.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808056/wolfs_gravestone_w73kpn.webp",
     name: "Wolf's Gravestone",
     type: "Claymore",
     rarity: 5,
@@ -2201,7 +2173,7 @@
   },
   {
     weaponUrl:
-      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720699434/xiphos_moonlight_teikf4.png",
+      "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720808056/xiphos_moonlight_ussprm.webp",
     name: "Xiphos' Moonlight",
     type: "Sword",
     rarity: 4,
