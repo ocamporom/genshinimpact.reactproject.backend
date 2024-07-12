@@ -180,9 +180,9 @@ app.get("/artifacts", async (req, res) => {
     artifactUrl3,
     artifactUrl4,
     artifactUrl5,
-    option1,
-    option2,
-    rarity,
+    maxRarity,
+  twoPieceBonus,
+  fourPieceBonus,
   } = req.body;
 
   const artifact = new Artifact({
@@ -191,9 +191,9 @@ app.get("/artifacts", async (req, res) => {
     artifactUrl3: artifactUrl3,
     artifactUrl4: artifactUrl4,
     artifactUrl5: artifactUrl5,
-    option1: option1,
-    option2: option2,
-    rarity,
+    maxRarity: maxRarity,
+    twoPieceBonus: twoPieceBonus,
+    fourPieceBonus: fourPieceBonus,
   });
 
   await artifact.save();

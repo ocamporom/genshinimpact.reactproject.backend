@@ -1,6 +1,10 @@
 [
   {
-    artifactUrl: "",
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758870/archaic-circlet-of-logos_ivf9x5.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758907/archaic-flower-of-life_za7arr.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758907/archaic-sands-of-eon_icurw6.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758907/archaic-goblet-of-eonothem_iwgkre.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758907/archaic-plume-of-death_fqhsa4.webp",
     name: "Archaic Petra",
     max_rarity: 5,
     "2-piece_bonus": "Gain a 15% Geo DMG Bonus.",
@@ -10,6 +14,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758908/blizzard-circlet-of-logos_m8g1za.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758908/blizzard-flower-of-life_gf39bg.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758908/blizzard-goblet-of-eonothem_it8ejy.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758908/blizzard-sands-of-eon_wbxl1g.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758908/blizzard-plume-of-death_tp2onk.webp",
     name: "Blizzard Strayer",
     max_rarity: 5,
     "2-piece_bonus": "Cryo DMG Bonus +15%",
@@ -18,6 +27,11 @@
     id: "blizzard-strayer",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758909/bloodystained-circlet-of-logos_rlgpvn.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758909/bloodstained-flower-of-life_zrgjfw.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758909/bloodstained-goblet-of-eonothem_ppxiue.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758909/bloodstained-sands-of-eon_o3uscq.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758909/bloodstained-plume-of-death_zcirlc.webp",
     name: "Bloodstained Chivalry",
     max_rarity: 5,
     "2-piece_bonus": "Physical DMG +25%",
@@ -27,6 +41,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758911/crimson-circlet-of-logos_euz9rz.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758915/crimson-flower-of-life_ezu8r3.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758914/crimson-goblet-of-eonothem_wq6cft.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758914/crimson-sands-of-eon_s3h3sq.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720758914/crimson-plume-of-death_gcrafn.webp",
     name: "Crimson Witch of Flames",
     max_rarity: 5,
     "2-piece_bonus": "Gain a 15% Pyro DMG Bonus.",
@@ -35,6 +54,11 @@
     id: "crimson-witch-of-flames",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763721/deepwood-circlet-of-logos_dshj10.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763727/deepwood-memoriesflower-of-life_hvh6ah.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763722/deepwood-memoriesgoblet-of-eonothem_gbqlxs.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763722/deepwood-memoriessands-of-eon_imtxgw.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763722/deepwood-memoriesplume-of-death_ganvod.webp",
     name: "Deepwood Memories",
     max_rarity: 5,
     "2-piece_bonus": "Dendro DMG Bonus +15%",
@@ -43,15 +67,13 @@
     id: "deepwood-memories",
   },
 
+ 
   {
-    name: "Desert Pavilion Chronicle",
-    max_rarity: 5,
-    "2-piece_bonus": "Anemo DMG Bonus +15%",
-    "4-piece_bonus":
-      "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
-    id: "desert-pavilion-chronicle",
-  },
-  {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762451/echoes-circlet-of-logos_snz4wt.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762451/wanderer-flower-of-life_v8m9mp.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762455/echoes-goblet-of-eonothem_xhy0to.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762456/echoes-sands-of-eon_pcyvha.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762455/echoes-plume-of-death_x9fxbw.webp",
     name: "Echoes of an Offering",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -60,6 +82,11 @@
     id: "echoes-of-an-offering",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762458/emblem-circlet-of-logos_nmmtg7.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762459/emblem-flower-of-life_o85ee4.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762459/emblem-goblet-of-eonothem_snyrdn.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762462/emblem-sands-of-eon_rj9dfq.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762459/emblem-plume-of-death_jvhahx.webp",
     name: "Emblem Of Severed Fate",
     max_rarity: 5,
     "2-piece_bonus": "Energy Recharge + 20%",
@@ -67,15 +94,13 @@
       "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
     id: "emblem-of-severed-fate",
   },
+
   {
-    name: "Flower of Paradise Lost",
-    max_rarity: 5,
-    "2-piece_bonus": "Increases Elemental Mastery by 80",
-    "4-piece_bonus":
-      "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
-    id: "flower-of-paradise-lost",
-  },
-  {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762462/fragment-circlet-of-logos_gj6uyi.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762462/fragment-flower-of-life_wp5wdo.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762463/fragment-goblet-of-eonothem_dbl8yg.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762466/fragment-sands-of-eon_qy66ae.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762466/fragment-plume-of-death_xtjvkc.webp",
     name: "Fragment of Harmonic Whimsy",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -85,6 +110,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762466/gilded-circlet-of-logos_cj1cva.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762466/gilded-flower-of-life_t18ocl.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762467/gilded-goblet-of-eonothem_fpn1jc.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762470/gilded-sands-of-eon_j2pqoe.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762470/gilded-plume-of-death_gaveq3.webp",
     name: "Gilded Dreams",
     max_rarity: 5,
     "2-piece_bonus": "Elemental Mastery +80",
@@ -92,15 +122,13 @@
       "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
     id: "gilded-dreams",
   },
+  
   {
-    name: "Glacier and Snowfield",
-    max_rarity: 5,
-    "2-piece_bonus": "Cryo DMG Bonus +15%",
-    "4-piece_bonus":
-      "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s.",
-    id: "glacier-and-snowfield",
-  },
-  {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762470/gladiator-circlet-of-logos_qks1qr.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762472/gladiator-flower-of-life_kpzbqf.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762474/gladiator-goblet-of-eonothem_jhqza3.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762475/gladiator-sands-of-eon_usjdng.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762474/gladiator-plume-of-death_atyf0i.webp",
     name: "Gladiator's Finale",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -109,6 +137,11 @@
     id: "gladiator-s-finale",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762475/golden-circlet-of-logos_gipfp9.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762480/golden-flower-of-life_fcoju2.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762480/golden-goblet-of-eonothem_tl8uy3.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762481/golden-sands-of-eon_h8bye8.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762480/golden-plume-of-death_foa02c.webp",
     name: "Golden Troupe",
     max_rarity: 5,
     "2-piece_bonus": "Increases Elemental Skill DMG by 20%.",
@@ -117,6 +150,11 @@
     id: "golden-troupe",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762484/heart-circlet-of-logos_tqazyf.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762485/heart-flower-of-life_tvooeu.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762485/heart-goblet-of-eonothem_wb6set.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762537/heart-sands-of-eon_im5bnw.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762537/heart-sands-of-eon_im5bnw.webp",
     name: "Heart of Depth",
     max_rarity: 5,
     "2-piece_bonus": "Hydro DMG Bonus +15%",
@@ -125,6 +163,11 @@
     id: "heart-of-depth",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762674/husk-circlet-of-logos_epzzme.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762674/husk-flower-of-life_n0jzqs.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762674/husk-goblet-of-eonothem_yzxhfz.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762675/husk-sands-of-eon_oyts5q.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762674/husk-plume-of-death_vuphgo.webp",
     name: "Husk of Opulent Dreams",
     max_rarity: 5,
     "2-piece_bonus": "DEF +30%",
@@ -134,6 +177,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762675/lavawalker-circlet-of-logos_jr0sqr.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762680/lavawalker-flower-of-life_rb4391.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762681/lavawalker-goblet-of-eonothem_xac6ax.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762675/husk-sands-of-eon_oyts5q.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762681/lavawalker-plume-of-death_h8qknl.webp",
     name: "Lavawalker",
     max_rarity: 5,
     "2-piece_bonus": "Pyro RES increased by 40%",
@@ -143,6 +191,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762684/maiden-circlet-of-logos_autupv.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762685/maiden-flower-of-life_em50nm.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762685/maiden-goblet-of-eonothem_zzell8.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762684/madien-sands-of-eon_ic0omt.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762685/maiden-plume-of-death_nc0ruv.webp",
     name: "Maiden Beloved",
     max_rarity: 5,
     "2-piece_bonus": "Character Healing Effectiveness +15%",
@@ -151,6 +204,11 @@
     id: "maiden-beloved",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762708/marechausee-circlet-of-logos_q6orva.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762985/marechausee-flower-of-life_qarc9l.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762985/marechausee-goblet-of-eonothem_hagilx.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762989/marechausee-sands-of-eon_sfewjr.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762986/marechausee-plume-of-death_j23gix.webp",
     name: "Marechaussee Hunter",
     max_rarity: 5,
     "2-piece_bonus": "Normal and Charged Attack DMG +15%.",
@@ -160,6 +218,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762989/nighttime-circlet-of-logos_k3iywr.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762991/nighttime-flower-of-life_dlicop.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762991/nighttime-goblet-of-eonothem_misuhd.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762995/nighttime-sands-of-eon_ipojvn.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762991/nighttime-plume-of-death_ge8yp1.webp",
     name: "Nighttime Whispers in the Echoing Woods",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -168,6 +231,11 @@
     id: "nighttime-whispers-in-the-echoing-woods",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762991/nighttime-plume-of-death_ge8yp1.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762996/noblesse-flower-of-life_f593lz.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762996/noblesse-goblet-of-eonothem_mmwidg.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762996/noblesse-sands-of-eon_tfm9ra.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762996/noblesse-plume-of-death_agbxng.webp",
     name: "Noblesse Oblige",
     max_rarity: 5,
     "2-piece_bonus": "Elemental Burst DMG +20%",
@@ -177,6 +245,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763001/ocean-circlet-of-logos_qqcshe.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763001/ocean-flower-of-life_of5od5.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763002/ocean-goblet-of-eonothem_urrdkq.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763013/ocean-sands-of-eon_rdggth.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763002/ocean-plume-of-death_mwfgwk.webp",
     name: "Ocean-Hued Clam",
     max_rarity: 5,
     "2-piece_bonus": "Healing Bonus +15%",
@@ -185,6 +258,11 @@
     id: "ocean-hued-clam",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763013/pale-circlet-of-logos_zmaulp.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763014/pale-flower-of-life_f2hw6f.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763014/pale-goblet-of-eonothem_fxacyy.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763019/pale-sands-of-eon_dylwa2.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763014/pale-plume-of-death_pkgysr.webp",
     name: "Pale Flame",
     max_rarity: 5,
     "2-piece_bonus": "Physical DMG +25%",
@@ -194,6 +272,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763019/retracing-circlet-of-logos_rfrkma.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763019/retracing-flower-of-life_xc7h3e.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763020/retracing-goblet-of-eonothem_esgcwz.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763023/retracing-sands-of-eon_yodjdj.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763023/retracing-plume-of-death_ifu2jd.webp",
     name: "Retracing Bolide",
     max_rarity: 5,
     "2-piece_bonus": "Increases Shield Strength by 35%.",
@@ -203,6 +286,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763024/shimenawa-circlet-of-logos_dwtt6o.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763024/shimenawa-flower-of-life_pfku5j.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763027/shimenawa-goblet-of-eonothem_gptncg.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763028/shimenawa-sands-of-eon_xsv6hm.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763027/shimenawa-plume-of-death_dvbrws.webp",
     name: "Shimenawa's Reminiscence",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -211,6 +299,11 @@
     id: "shimenawa-s-reminiscence",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763028/song-circlet-of-logos_g95jh9.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763028/song-flower-of-life_dn9jxy.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763033/song-goblet-of-eonothem_ntin8e.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763033/song-sands-of-eon_r0nyrc.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763033/song-plume-of-death_vwal7j.webp",
     name: "Song of Days Past",
     max_rarity: 5,
     "2-piece_bonus": "Healing Bonus +15%",
@@ -219,6 +312,11 @@
     id: "song-of-days-past",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763033/song-plume-of-death_vwal7j.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763037/tenacity-flower-of-life_zqnak0.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763038/tenacity-goblet-of-eonothem_zu6wyn.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763038/tenacity-sands-of-eon_xalfrk.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763038/tenacity-plume-of-death_ryf0qi.webp",
     name: "Tenacity of the Millelith",
     max_rarity: 5,
     "2-piece_bonus": "HP +20%",
@@ -228,6 +326,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763042/thundering-circlet-of-logos_c46iqv.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763042/thundering-flower-of-life_jyip4a.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763042/thundering-goblet-of-eonothem_gqy7og.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763047/thundering-sands-of-eon_hsmtzz.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763043/thundering-plume-of-death_jhgkjv.webp",
     name: "Thundering Fury",
     max_rarity: 5,
     "2-piece_bonus": "Gain a 15% Electro DMG Bonus.",
@@ -236,6 +339,11 @@
     id: "thundering-fury",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763047/thundersoother-circlet-of-logos_kxs7wk.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720763047/thundersoother-flower-of-life_g02psn.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762351/thundersoother-goblet-of-eonothem_vmzhcw.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/thundersoother-sands-of-eon_iwcwil.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/thundersoother-plume-of-death_zyb00q.webp",
     name: "Thundersoother",
     max_rarity: 5,
     "2-piece_bonus": "Electro RES increased by 40%",
@@ -245,6 +353,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/unfinished-circlet-of-logos_chfino.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/unfinished-flower-of-life_a8kz09.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/unfinished-goblet-of-eonothem_dfu3xn.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762358/unfinished-sands-of-eon_yzzidt.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762352/unfinished-plume-of-death_e8sgb8.webp",
     name: "Unfinished Reverie",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -253,6 +366,11 @@
     id: "unfinished-reverie",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762359/vermillion-circlet-of-logos_grukug.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762359/vermillion-flower-of-life_wucwyo.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762359/vermillion-goblet-of-eonothem_zqjllc.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762359/vermillion-sands-of-eon_ttkb2h.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762359/vermillion-sands-of-eon_ttkb2h.webp",
     name: "Vermillion Hereafter",
     max_rarity: 5,
     "2-piece_bonus": "ATK +18%",
@@ -261,6 +379,11 @@
     id: "vermillion-hereafter",
   },
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762402/viridescent-circlet-of-logos_cstkrl.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762444/viridescent-flower-of-life_jst5av.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762444/viridescent-goblet-of-eonothem_khqinv.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762445/viridescent-sands-of-eon_qd5v3i.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762444/viridescent-plume-of-death_zvvul0.webp",
     name: "Viridescent Venerer",
     max_rarity: 5,
     "2-piece_bonus": "Gain a 15% Anemo DMG Bonus.",
@@ -270,6 +393,11 @@
   },
 
   {
+    artifactUrl1: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762445/wanderer-circlet-of-logos_vdbzdo.webp",
+    artifactUrl2: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762451/wanderer-flower-of-life_v8m9mp.webp",
+    artifactUrl3: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762445/wanderer-goblet-of-eonothem_hmayrb.webp",
+    artifactUrl4: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762451/wanderer-sands-of-eon_ehw6p7.webp",
+    artifactUrl5: "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720762450/wanderer-plume-of-death_pc06f0.webp",
     name: "Wanderer's Troupe",
     max_rarity: 5,
     "2-piece_bonus": "Elemental Mastery +80",

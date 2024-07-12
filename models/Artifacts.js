@@ -8,9 +8,9 @@ const artifactSchema = Schema({
   artifactUrl3: String,
   artifactUrl4: String,
   artifactUrl5: String,
-   option1:String,
-   option2: String,
-   rarity: Number
+  fourPieceBonus:String,
+   twoPieceBonus: String,
+   maxRarity: Number
 
   // 💡 Added an optional brand
   // brandId: {
