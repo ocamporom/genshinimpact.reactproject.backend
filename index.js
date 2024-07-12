@@ -42,6 +42,7 @@ app.post("/characters", async (req, res) => {
     constellation,
     description,
     imageUrl,
+    iconUrl
   } = req.body;
 
   const character = new Character({
@@ -58,6 +59,7 @@ app.post("/characters", async (req, res) => {
 
     description: description,
     imageUrl: imageUrl,
+    iconUrl: iconUrl
   });
 
   await character.save();

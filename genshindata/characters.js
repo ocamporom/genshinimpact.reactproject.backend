@@ -1,5 +1,6 @@
 [
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779487/albedo_p5ccmf.webp",
     imageUrl:
       "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605503/albedo_ogz9us.webp",
     name: "Albedo",
@@ -183,6 +184,7 @@
     id: "albedo",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779487/alhaitham_g4eivy.webp",
     
     imageUrl:
       "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605491/alhaitham_kzwvsb.png",
@@ -392,6 +394,7 @@
     id: "alhaitham",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779487/aloy_fdh5nj.webp",
    
     imageUrl:
       "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605493/aloy_tlxcgs.png",
@@ -583,6 +586,7 @@
     id: "aloy",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779487/amber_p7j8ol.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605488/amber_i7j3g5.png",
     name: "Amber",
@@ -777,6 +781,7 @@
     id: "amber",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779488/arataki-itto_omdsnf.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605493/arataki-itto_tnhple.png",
     
@@ -969,6 +974,7 @@
     id: "arataki-itto",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779487/arlecchino_j310yo.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605493/arlecchino_l1xxah.png",
     name: "Arlecchino",
@@ -1165,6 +1171,7 @@
     id: "arlecchino",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779488/ayaka_hv45lg.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605345/ayaka_mmmkqj.png",
     name: "Kamisato Ayaka",
@@ -1375,6 +1382,7 @@
     id: "ayaka",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779488/ayato_hj88ya.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605350/ayato_prqwvg.png",
     name: "Kamisato Ayato",
@@ -1578,6 +1586,7 @@
     id: "ayato",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779493/baizhu_h8seaj.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605344/baizhu_hemjgt.png",
     name: "Baizhu",
@@ -1686,6 +1695,7 @@
     id: "baizhu",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779493/barbara_wwsybj.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605359/barbara_jxrdve.png",
     name: "Barbara",
@@ -1875,6 +1885,7 @@
     id: "barbara",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720780664/beidou_f5dgxa.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605356/beidou_xltnvs.png",
     name: "Beidou",
@@ -2074,6 +2085,7 @@
     id: "beidou",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779493/bennett_hcpixx.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605358/bennett_wjm9b8.png",
     name: "Bennett",
@@ -2268,6 +2280,7 @@
     id: "bennett",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779494/candace_jksun4.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605344/candace_uzdv6w.png",
     name: "Candace",
@@ -2463,6 +2476,7 @@
     id: "candace",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/charlotte_n16v9g.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605349/charlotte_t02nu5.png",
     name: "Charlotte",
@@ -2572,6 +2586,7 @@
     id: "charlotte",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/chevreuse_hmy90k.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605357/chevreuse_eakjtr.png",
     name: "Chevreuse",
@@ -2681,6 +2696,7 @@
     id: "chevreuse",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/chiori_ccqdp3.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605360/chiori_ctderc.png",
     name: "Chiori",
@@ -2860,7 +2876,9 @@
     weapon_type: "SWORD",
     id: "chiori",
   },
+
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/chongyun_rpgodl.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605364/chongyun_llrhjr.png",
     name: "Chongyun",
@@ -3044,6 +3062,7 @@
     id: "chongyun",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/clorinde_odphlb.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605367/clorinde_f9inik.png",
     name: "Clorinde",
@@ -3153,6 +3172,7 @@
     id: "clorinde",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/collei_ivavng.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605367/collei_rfr4vr.png",
     name: "Collei",
@@ -3327,6 +3347,7 @@
     id: "collei",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779498/cyno_lvqn3j.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605371/cyno_s555ed.png",
     name: "Cyno",
@@ -3539,6 +3560,7 @@
     id: "cyno",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779499/dehya_jinxsd.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605371/dehya_ndbuiq.png",
     name: "Dehya",
@@ -3742,6 +3764,7 @@
     id: "dehya",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779504/diluc_zzibbq.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605368/diluc_toaxdv.png",
     name: "Diluc",
@@ -3948,6 +3971,7 @@
     id: "diluc",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779504/diona_dlem9h.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605373/diona_jdyq8n.png",
     name: "Diona",
@@ -4143,6 +4167,7 @@
     id: "diona",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779504/dori_gecoif.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605376/dori_glraip.png",
     name: "Dori",
@@ -4329,6 +4354,7 @@
     id: "dori",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779505/eula_nqc3lg.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605376/eula_drzxy0.png",
     name: "Eula",
@@ -4552,6 +4578,7 @@
     id: "eula",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779505/faruzan_bpw4rt.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605375/faruzan_fh790j.png",
     name: "Faruzan",
@@ -4747,6 +4774,7 @@
     id: "faruzan",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779509/fischl_nduvc5.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605388/fischl_h721ua.png",
     name: "Fischl",
@@ -4937,6 +4965,7 @@
     id: "fischl",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779509/freminet_ri55nn.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605382/freminet_q5b2nt.png",
     name: "Freminet",
@@ -5046,6 +5075,7 @@
     id: "freminet",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779509/furina_m64rv3.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605382/furina_lglwpq.png",
     name: "Furina",
@@ -5155,6 +5185,7 @@
     id: "furina",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779510/gaming_k6soz2.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605384/gaming_ohgola.png",
     name: "Gaming",
@@ -5342,6 +5373,7 @@
     id: "gaming",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779510/ganyu_vczkde.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605385/ganyu_gpb73h.png",
     name: "Ganyu",
@@ -5551,6 +5583,7 @@
     id: "ganyu",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779510/gorou_dge5v0.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605393/gorou_m52a9o.png",
     name: "Gorou",
@@ -5660,6 +5693,7 @@
     id: "gorou",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779510/hu-tao_qtoodw.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605393/hu-tao_umsagg.png",
     name: "Hu Tao",
@@ -5769,6 +5803,7 @@
     id: "hu-tao",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779515/jean_uiesgq.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605389/jean_ucveeq.png",
     name: "Jean",
@@ -5979,6 +6014,7 @@
     id: "jean",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/kaeya_qxfxvx.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605393/kaeya_k8vydd.png",
     name: "Kaeya",
@@ -6165,6 +6201,7 @@
     id: "kaeya",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/kaveh_wswuq8.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605395/kaveh_ieyi9p.png",
     name: "Kaveh",
@@ -6274,6 +6311,7 @@
     id: "kaveh",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/kazuha_ulikrk.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605399/kazuha_nmvqav.png",
     name: "Kaedehara Kazuha",
@@ -6464,7 +6502,9 @@
     weapon_type: "SWORD",
     id: "kazuha",
   },
+
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/keqing_td6pzq.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605400/keqing_yvvl2u.png",
     name: "Keqing",
@@ -6663,6 +6703,7 @@
     id: "keqing",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/kirara_zr1gld.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605402/kirara_afrqu6.png",
     name: "Kirara",
@@ -6772,6 +6813,7 @@
     id: "kirara",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/klee_z9exo4.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605402/klee_cdolpc.png",
     name: "Klee",
@@ -6958,6 +7000,7 @@
     id: "klee",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779516/kokomi_rxzybn.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605405/kokomi_uamtnx.png",
     name: "Sangonomiya Kokomi",
@@ -7073,6 +7116,7 @@
     id: "kokomi",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779522/kuki-shinobu_nwdi7a.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605405/kuki-shinobu_eyujbj.png",
     name: "Kuki Shinobu",
@@ -7262,6 +7306,7 @@
     id: "kuki-shinobu",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779522/layla_udhse5.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605410/layla_eiswpn.png",
     name: "Layla",
@@ -7441,6 +7486,7 @@
     id: "layla",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779523/lisa_tl6bob.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605410/lisa_hrcbuu.png",
     name: "Lisa",
@@ -7643,6 +7689,7 @@
     id: "lisa",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779523/lynette_tcbxtk.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605413/lynette_irnz6r.png",
     name: "Lynette",
@@ -7751,6 +7798,7 @@
     id: "lynette",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779525/lyney_lsmtkj.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605410/lyney_ap3udn.png",
     name: "Lyney",
@@ -7860,6 +7908,7 @@
     id: "lyney",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779526/mika_hiu2qe.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605413/mika_p61bcy.png",
     name: "Mika",
@@ -7969,6 +8018,7 @@
     id: "mika",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779527/mona_flxm18.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605417/mona_vzl9wr.png",
     name: "Mona",
@@ -8178,6 +8228,7 @@
     id: "mona",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779528/nahida_gbx53i.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605417/nahida_fbvuvx.png",
     name: "Nahida",
@@ -8365,6 +8416,7 @@
     id: "nahida",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779529/navia_fulsdx.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605438/navia_yxx8bv.png",
     name: "Navia",
@@ -8474,7 +8526,9 @@
     id: "navia",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779531/neuvillette_gdlbwx.webp",
     imageUrl:
+
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605441/neuvillette_x5eufn.png",
     name: "Neuvillette",
     title: "Ordainer of Inexorable Judgment",
@@ -8583,6 +8637,7 @@
     id: "neuvillette",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779531/nilou_wmaxt7.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605426/nilou_gxroxj.png",
     name: "Nilou",
@@ -8774,6 +8829,7 @@
     id: "nilou",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779531/ningguang_rg9f9q.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605429/ningguang_jedfi8.png",
     name: "Ningguang",
@@ -8946,6 +9002,7 @@
     id: "ningguang",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779532/noelle_bkod6v.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605429/noelle_qwktpe.png",
     name: "Noelle",
@@ -9149,6 +9206,7 @@
     id: "noelle",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779532/qiqi_mamqry.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605428/qiqi_muw6rs.png",
     name: "Qiqi",
@@ -9344,6 +9402,7 @@
     id: "qiqi",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779536/raiden_kb5lhg.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605432/raiden_vzg45o.png",
     name: "Raiden Shogun",
@@ -9453,6 +9512,7 @@
     id: "raiden",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779536/razor_a1gixb.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605438/razor_qdd7ee.png",
     name: "Razor",
@@ -9664,6 +9724,7 @@
     id: "razor",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779536/rosaria_tllqp7.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605434/rosaria_pbbdks.png",
     name: "Rosaria",
@@ -9853,6 +9914,7 @@
     id: "rosaria",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779472/sara_xgggph.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605440/sara_yy8jeg.png",
     name: "Kujou Sara",
@@ -9962,6 +10024,7 @@
     id: "sara",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779472/sayu_g8afx0.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605440/sayu_l1pmwc.png",
     name: "Sayu",
@@ -10071,6 +10134,7 @@
     id: "sayu",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779472/sethos_w4pv0m.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605441/sethos_ugowcf.png",
     name: "Sethos",
@@ -10180,6 +10244,7 @@
     id: "sethos",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/shenhe_qivgb1.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605448/shenhe_ur6txu.png",
     name: "Shenhe",
@@ -10299,6 +10364,7 @@
     id: "shenhe",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/shikanoin-heziou_odncho.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605449/shikanoin-heizou_jsne9z.png",
     name: "Shikanoin Heizou",
@@ -10486,6 +10552,7 @@
     id: "shikanoin-heizou",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779472/sigewinne_g5v5tg.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605448/sigewinne_gctsf6.png",
     name: "Sigewinne",
@@ -10595,6 +10662,7 @@
     id: "sigewinne",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779472/sucrose_vwga9x.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605450/sucrose_h4fsov.png",
     name: "Sucrose",
@@ -10770,6 +10838,7 @@
     id: "sucrose",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/tartaglia_ksewg1.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605454/tartaglia_kt445v.png",
     name: "Tartaglia",
@@ -11011,6 +11080,7 @@
     id: "tartaglia",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/thoma_w29cwo.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/tighnari_v3ad5u.png",
     name: "Thoma",
@@ -11201,6 +11271,7 @@
     id: "thoma",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/tignhari_fm7qsy.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/tighnari_v3ad5u.png",
     name: "Tighnari",
@@ -12189,6 +12260,7 @@
     id: "traveler-hydro",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/venti_xzgihz.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/venti_iitbmt.png",
     name: "Venti",
@@ -12380,6 +12452,7 @@
     id: "venti",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/wanderer_viaeq0.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/wanderer_p5ztbq.png",
     name: "Wanderer",
@@ -12555,6 +12628,7 @@
     id: "wanderer",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779477/wriothesley_gpvqtx.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/wriothesly_yabrtm.png",
     name: "Wriothesley",
@@ -12664,6 +12738,7 @@
     id: "wriothesley",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779477/xiangling_ntc35k.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605461/xiangling_gzu4dw.png",
     name: "Xiangling",
@@ -12849,6 +12924,7 @@
     id: "xiangling",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779477/xianyun_npxzb3.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605471/xianyun_vqwi00.png",
     name: "Xianyun",
@@ -13043,6 +13119,7 @@
     id: "xianyun",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779477/xiao_gmchdt.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605470/xiao_p9het7.png",
     name: "Xiao",
@@ -13216,6 +13293,7 @@
     id: "xiao",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779477/xinqiu_jnozjg.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605466/xingqiu_qacc4q.png",
     name: "Xingqiu",
@@ -13407,6 +13485,7 @@
     id: "xingqiu",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779478/xinyan_sea0zy.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605471/xinyan_pwargv.png",
     name: "Xinyan",
@@ -13516,6 +13595,7 @@
     id: "xinyan",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779478/yae-miko_ees6sm.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605472/yae-miko_zg6obd.png",
     name: "Yae Miko",
@@ -13699,6 +13779,7 @@
     id: "yae-miko",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779478/yanfei_rwjxko.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605472/yanfei_e4gnkg.png",
     name: "Yanfei",
@@ -13869,6 +13950,7 @@
     id: "yanfei",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779482/yaoyao_hn7npw.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605478/yaoyao_y0sgfn.png",
     name: "Yaoyao",
@@ -14064,6 +14146,7 @@
     id: "yaoyao",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779482/yelan_gn5kz6.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605480/yelan_aooa4m.png",
     name: "Yelan",
@@ -14246,6 +14329,7 @@
     id: "yelan",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779483/yoimiya_zdseid.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605479/yoimiya_srptz7.png",
     name: "Yoimiya",
@@ -14429,7 +14513,7 @@
     id: "yoimiya",
   },
   {
-
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779483/yun-jin_zhzls4.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605479/yun-jin_tb2cti.png",
     name: "Yun Jin",
@@ -14620,6 +14704,7 @@
     id: "yun-jin",
   },
   {
+    iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779483/zhongli_i89xly.webp",
     imageUrl:
     "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605485/zhongli_ud47ze.png",
     name: "Zhongli",
