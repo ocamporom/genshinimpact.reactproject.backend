@@ -1,35 +1,39 @@
-import express from "express";
-import process from "node:process";
-import { readFile, writeFile, stat } from "node:fs/promises";
-import cors from "cors";
-import helmet from "helmet";
-import bodyParser from "body-parser";
-import Character from "./models/Character.js";
-import Weapons from "./models/Weapons.js";
-import connectDb from "./connectDb.js";
-import Artifact from "./models/Artifacts.js";
-import Video from "./models/Videos.js";
+import express from 'express';
+import process from 'node:process';
+import { readFile, writeFile, stat } from 'node:fs/promises';
+import cors from 'cors';
+import helmet from 'helmet';
+import bodyParser from 'body-parser';
+import Character from './models/Character.js';
+import Videos from './models/Weapons.js';
+import connectDb from './connectDb.js';
+import Artifact from './models/Artifacts.js';
+import Video from './models/Videos.js';
+import 'dotenv/config';
 
 await connectDb();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+console.log('process.env.PORT', process.env.PORT, typeof process.env.PORT);
 
-app.set("port", PORT);
+app.set('port', PORT);
 
 app.use(cors()); // For simplicity
 app.use(helmet());
 app.use(bodyParser.json()); // To parse JSON body///
 
 // GET Request localhost:3000
-app.get("/", (req, res) => {
+app.get('/', (req, res) => {
+
+
   res.status(200).json({
-    message: "Hello World!",
+    message: 'Hello World!',
   });
 });
 
 // get all characters
-app.post("/characters", async (req, res) => {
+app.post('/characters', async (req, res) => {
   // 💡 Only get what information is needed
   const {
     name,
@@ -42,101 +46,123 @@ app.post("/characters", async (req, res) => {
     constellation,
     description,
     imageUrl,
-    iconUrl
+    iconUrl,
   } = req.body;
 
   const character = new Character({
-    name: name,
-    title: title,
-    vision: vision,
-    weapon: weapon,
-
-    nation: nation,
-    affiliation: affiliation,
-    rarity: rarity,
-
-    constellation: constellation,
-
-    description: description,
-    imageUrl: imageUrl,
-    iconUrl: iconUrl
+    name,
+    title,
+    vision,
+    weapon,
+    nation,
+    affiliation,
+    rarity,
+    constellation,
+    description,
+    imageUrl,
+    iconUrl,
   });
 
   await character.save();
 
   res.status(201).json({
-    message: "Successfully created Characters",
+    message: 'Successfully created Characters',
     data: character,
   });
 });
 
 // All characters
-app.get("/characters", async (req, res) => {
+app.get('/characters', async (req, res) => {
   const characters = await Character.find({}); // 1 model / null
-
   res.status(200).json(characters);
 });
 
 //get details na itttuuuu?
-app.get("/characters/:id", async (req, res) => {
+app.get('/characters/:id', async (req, res) => {
   const { id } = req.params;
 
   const character = await Character.findById(id);
 
   if (!character) {
     res.status(404).json({
-      message: "Character cannot be found",
+      message: 'Character cannot be found',
     });
 
     return;
   }
 
   res.status(200).json({
-    message: "Character is found",
+    message: 'Character is found',
     data: character,
   });
 });
 
-app.put("/characters/:id", async (req, res) => {
-  const { id } = req.params.id;
+app.put('/characters/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const characterFields = req.body;
 
-  let characters = await readFile("./genshindata/character.json", {
-    encoding: "utf8",
-  });
-  characters = JSON.parse(characters);
+    const character = await Character.findByIdAndUpdate(id, characterFields, {
+      new: true,
+    }); // 3 ya parameter, tang id, tahng  msmung object tpus itang new(bali magupdate ya tlga into new value)
 
-  const charactersIndex = characters.findIndex(
-    (character) => character.id === id
-  );
+    if (!character) {
+      return res.status(404).json({
+        message: 'Character not found',
+      });
+    }
 
-  if (charactersIndex === -1) {
-    /// mixed ung characters! so panow?
-
-    //!/^[0-9a-fA-F]{24}$/.test(id) ito ung testing na tugma sa mongo de ponggol pano to? HAHAHAHAHH
-
-    res.send("Character not found");
+    res.status(200).json({
+      message: 'Character updated',
+      data: character,
+    });
+  } catch (error) {
+    console.error('Error updating character:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
   }
+});
 
-  characters[charactersIndex] = {
-    ...req.body,
-    id: characters[charactersIndex]["id"],
-  };
+app.delete('/characters/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
 
-  await writeFile("./genshindata/characters.json", JSON.stringify(characters));
+    const character = await Character.findByIdAndDelete(id);
 
-  res.send("this is an update");
+    if (!character) {
+      return res.status(404).json({
+        message: 'Character not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Character deleted',
+      deletedCharacter: character,
+    });
+  } catch (error) {
+    console.error('Error deleting character:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
 });
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // get all weapons
-app.get("/weapons", async (req, res) => {
-  const weapons = await Weapons.find({}); // 1 model / null
+// GET: /weapons
+// GET: /weapons?type={WEAPON_TYPE}
+app.get('/weapons', async (req, res) => {
+  const { type } = req.query;
+  const find = {};
+
+  if (type) {
+    find['type'] = type;
+  }
+
+  const weapons = await Videos.find(find); // 1 model / null
 
   res.status(200).json(weapons);
 });
 
 // fetch the details
-app.post("/weapons", async (req, res) => {
+app.post('/weapons', async (req, res) => {
   const {
     weaponUrl,
     name,
@@ -147,27 +173,75 @@ app.post("/weapons", async (req, res) => {
     ascensionMaterial,
   } = req.body;
 
-  const weapons = new Weapon({
-    name: name,
-    weaponUrl: weaponUrl,
-    type: type,
-    rarity: rarity,
-    substat: substat,
-    location: location,
-    ascensionMaterial: ascensionMaterial,
+  const weapons = new Videos({
+    weaponUrl,
+    name,
+    type,
+    rarity,
+    substat,
+    location,
+    ascensionMaterial,
   });
 
   await weapons.save();
 
   res.status(201).json({
-    message: "Successfully created Characters",
+    message: 'Successfully created Weapons',
     data: weapons,
   });
 });
+
+app.put('/weapons/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const weaponFields = req.body;
+
+    const weapon = await Videos.findByIdAndUpdate(id, weaponFields, {
+      new: true,
+    });
+
+    if (!weapon) {
+      return res.status(404).json({
+        message: 'Weapon not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Weapons updated',
+      data: weapon,
+    });
+  } catch (error) {
+    console.error('Error updating weapon:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+app.delete('/weapons/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    const weapon = await Videos.findByIdAndDelete(id);
+
+    if (!weapon) {
+      return res.status(404).json({
+        message: 'Weapon not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Weapons deleted',
+      deletedWeapon: weapon,
+    });
+  } catch (error) {
+    console.error('Error deleting weapon:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // get all artifacts!!!
-app.get("/artifacts", async (req, res) => {
+app.get('/artifacts', async (req, res) => {
   const artifacts = await Artifact.find({}); // 1 model / null
 
   res.status(200).json(artifacts);
@@ -175,7 +249,7 @@ app.get("/artifacts", async (req, res) => {
 
 //get all artifacts details!!!
 
-app.get("/artifacts", async (req, res) => {
+app.post('/artifacts', async (req, res) => {
   const {
     artifactUrl1,
     artifactUrl2,
@@ -183,19 +257,19 @@ app.get("/artifacts", async (req, res) => {
     artifactUrl4,
     artifactUrl5,
     maxRarity,
-  twoPieceBonus,
-  fourPieceBonus,
+    twoPieceBonus,
+    fourPieceBonus,
   } = req.body;
 
   const artifact = new Artifact({
-    artifactUrl1: artifactUrl1,
-    artifactUrl2: artifactUrl2,
-    artifactUrl3: artifactUrl3,
-    artifactUrl4: artifactUrl4,
-    artifactUrl5: artifactUrl5,
-    maxRarity: maxRarity,
-    twoPieceBonus: twoPieceBonus,
-    fourPieceBonus: fourPieceBonus,
+    artifactUrl1,
+    artifactUrl2,
+    artifactUrl3,
+    artifactUrl4,
+    artifactUrl5,
+    maxRarity,
+    twoPieceBonus,
+    fourPieceBonus,
   });
 
   await artifact.save();
@@ -203,45 +277,137 @@ app.get("/artifacts", async (req, res) => {
   res.status(200).json(Artifact);
 });
 
+app.put('/artifacts/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const artifactFields = req.body;
+
+    const artifact = await Artifact.findByIdAndUpdate(id, artifactFields, {
+      new: true,
+    });
+
+    if (!artifact) {
+      return res.status(404).json({
+        message: 'Artifact not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Artifact updated',
+      data: artifact,
+    });
+  } catch (error) {
+    console.error('Error updating artifact:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+app.delete('/artifacts/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    const artifact = await Artifact.findByIdAndDelete(id);
+
+    if (!artifact) {
+      return res.status(404).json({
+        message: 'Artifact not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Artifact deleted',
+      deletedArtifact: artifact,
+    });
+  } catch (error) {
+    console.error('Error deleting artifact:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
 
 ///////////////////////////////////////////////////////////
 
-app.get("/videos", async (req, res) => {
+app.get('/videos', async (req, res) => {
   const videos = await Video.find({}); // 1 model / null
 
   res.status(200).json(videos);
 });
 
-
-app.get("/videos", async (req,res)=>{
-  const {
-   name,
-   videoUrl,
-  } = req.body;
+app.post('/videos', async (req, res) => {
+  const { name, videoUrl } = req.body;
 
   const video = new Video({
-    name: name,
-    videoUrl: videoUrl
+    name,
+    videoUrl,
   });
-
-
 
   await video.save();
 
   res.status(200).json(Video);
+});
 
-})
+app.put('/videos/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const videoFields = req.body;
+
+    const video = await Videos.findByIdAndUpdate(id, videoFields, {
+      new: true,
+    });
+
+    if (!video) {
+      return res.status(404).json({
+        message: 'Video not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Videos updated',
+      data: video,
+    });
+  } catch (error) {
+    console.error('Error updating video:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+app.delete('/weapons/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    const video = await Videos.findByIdAndDelete(id);
+
+    if (!video) {
+      return res.status(404).json({
+        message: 'Video not found',
+      });
+    }
+
+    res.status(200).json({
+      message: 'Videos deleted',
+      deletedVideo: video,
+    });
+  } catch (error) {
+    console.error('Error deleting video:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
 
 
+////////////////////////////////////////////////////////////////////////////////
 
+app.get('/search', async (req, res) => {
+  const query = req.query.q;
 
+  if (!query) {
+    res.status(400).json({ message: 'Must provide query on search' });
+  }
 
+  await Character.find({ name: query });
 
+  // then do some response
 
-
-
-
-
+  res.status(200).json(Video);
+});
 
 //
 //

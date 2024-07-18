@@ -11082,7 +11082,7 @@
   {
     iconUrl:"https://res.cloudinary.com/dcxnybtfp/image/upload/v1720779473/thoma_w29cwo.webp",
     imageUrl:
-    "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605459/tighnari_v3ad5u.png",
+    "https://res.cloudinary.com/dcxnybtfp/image/upload/v1720605452/thoma_vwkk5q.png",
     name: "Thoma",
     title: "Protector From Afar",
     vision: "Pyro",

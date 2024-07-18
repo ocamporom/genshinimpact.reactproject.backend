@@ -5,7 +5,7 @@ const characterSchema = Schema({
   name: String,
   title: String,
   vision: String,
-  weapon: Number,
+  weapon: String,
   nation: String,
   affiliation: String,
   rarity: Number,
