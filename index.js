@@ -5,17 +5,20 @@ import cors from 'cors';
 import helmet from 'helmet';
 import bodyParser from 'body-parser';
 import Character from './models/Character.js';
-import Videos from './models/Weapons.js';
+import Weapon from './models/Weapons.js';
 import connectDb from './connectDb.js';
 import Artifact from './models/Artifacts.js';
 import Video from './models/Videos.js';
 import 'dotenv/config';
 
+// import mongoose from 'mongoose';
+// import paginate from 'mongoose-paginate-v2';
+
 await connectDb();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-console.log('process.env.PORT', process.env.PORT, typeof process.env.PORT);
+
 
 app.set('port', PORT);
 
@@ -25,12 +28,21 @@ app.use(bodyParser.json()); // To parse JSON body///
 
 // GET Request localhost:3000
 app.get('/', (req, res) => {
-
-
   res.status(200).json({
     message: 'Hello World!',
   });
 });
+
+// app.get('/characters', paginatedResults(Character),  async (req, res) => {
+//   const characters = await Character.find({}); // 1 model / null
+//   res.status(200).json(paginatedResults);
+// });
+
+app.get('/characters', async (req, res) => {
+  const characters = await Character.find({}); // 1 model / null
+  res.status(200).json(characters);
+});
+
 
 // get all characters
 app.post('/characters', async (req, res) => {
@@ -72,10 +84,7 @@ app.post('/characters', async (req, res) => {
 });
 
 // All characters
-app.get('/characters', async (req, res) => {
-  const characters = await Character.find({}); // 1 model / null
-  res.status(200).json(characters);
-});
+
 
 //get details na itttuuuu?
 app.get('/characters/:id', async (req, res) => {
@@ -156,7 +165,7 @@ app.get('/weapons', async (req, res) => {
     find['type'] = type;
   }
 
-  const weapons = await Videos.find(find); // 1 model / null
+  const weapons = await Weapon.find(find); // 1 model / null
 
   res.status(200).json(weapons);
 });
@@ -173,7 +182,7 @@ app.post('/weapons', async (req, res) => {
     ascensionMaterial,
   } = req.body;
 
-  const weapons = new Videos({
+  const weapons = new Weapon({
     weaponUrl,
     name,
     type,
@@ -196,7 +205,7 @@ app.put('/weapons/:id', async (req, res) => {
     const { id } = req.params;
     const weaponFields = req.body;
 
-    const weapon = await Videos.findByIdAndUpdate(id, weaponFields, {
+    const weapon = await Weapon.findByIdAndUpdate(id, weaponFields, {
       new: true,
     });
 
@@ -220,7 +229,7 @@ app.delete('/weapons/:id', async (req, res) => {
   try {
     const { id } = req.params;
 
-    const weapon = await Videos.findByIdAndDelete(id);
+    const weapon = await Weapon.findByIdAndDelete(id);
 
     if (!weapon) {
       return res.status(404).json({
@@ -274,7 +283,7 @@ app.post('/artifacts', async (req, res) => {
 
   await artifact.save();
 
-  res.status(200).json(Artifact);
+  res.status(200).json(artifact);
 });
 
 app.put('/artifacts/:id', async (req, res) => {
@@ -326,11 +335,61 @@ app.delete('/artifacts/:id', async (req, res) => {
 
 ///////////////////////////////////////////////////////////
 
-app.get('/videos', async (req, res) => {
-  const videos = await Video.find({}); // 1 model / null
-
-  res.status(200).json(videos);
+app.get('/videos', async (req, res) => { //papasok mo ung paginatedResults dito in between
+  const videos = await Video.find({});
+  res.status(200).json(videos); //  bali mailalagay ung res.json(paginatedResult)
 });
+
+
+// app.get('/videos', async (req, res) => { //papasok mo ung paginatedResults dito in between
+//   const videos = await Video.find({}); // 1 model / null
+// //   // const page = req.query.page
+// //   // const limit = req.query.limit
+
+// //   // const startIndex = (page - 1) * limit // need to minus 1 pra index 0
+// //   // const endIndex = page * limit
+
+// //   // const resultVideos = videos.slice(startIndex, endIndex)
+
+// //   const options = {
+// //     page: 1,
+// //     limit: 10,
+// //     collation: {
+// //       locale: 'en',
+// //     },
+// //   };
+
+// //   Model.paginate({}, options, function (err, result) {
+// //     result.docs
+// //     result.totalDocs = 88
+// //     result.limit = 10
+// //     result.page = 1
+// //     result.totalPages = 10
+// //     result.hasNextPage = true
+// //     result.nextPage = 2
+// //     result.hasPrevPage = false
+// //     result.prevPage = null
+// //     result.pagingCounter = 1
+// //   });
+
+// //   // res.status(200).json(resultVideos);
+//   res.status(200).json(videos); //  bali mailalagay ung res.json(paginatedResult)
+// });
+
+// http://localhost:3000/api/v1/videos?page=1&limit=10 // front end
+
+// app.get('/videos', async (req, res) => {
+//   const page = req.query.page || 1
+//   const limit = req.query.limit || 10
+  
+
+//   const paginatedVideos = await Video.paginate({}, {
+//     page,
+//     limit
+//   })
+
+//   res.status(200).json(paginatedVideos);
+// });
 
 app.post('/videos', async (req, res) => {
   const { name, videoUrl } = req.body;
@@ -342,7 +401,7 @@ app.post('/videos', async (req, res) => {
 
   await video.save();
 
-  res.status(200).json(Video);
+  res.status(200).json(video);
 });
 
 app.put('/videos/:id', async (req, res) => {
@@ -350,7 +409,7 @@ app.put('/videos/:id', async (req, res) => {
     const { id } = req.params;
     const videoFields = req.body;
 
-    const video = await Videos.findByIdAndUpdate(id, videoFields, {
+    const video = await Video.findByIdAndUpdate(id, videoFields, {
       new: true,
     });
 
@@ -370,11 +429,11 @@ app.put('/videos/:id', async (req, res) => {
   }
 });
 
-app.delete('/weapons/:id', async (req, res) => {
+app.delete('/videos/:id', async (req, res) => {
   try {
     const { id } = req.params;
 
-    const video = await Videos.findByIdAndDelete(id);
+    const video = await Video.findByIdAndDelete(id);
 
     if (!video) {
       return res.status(404).json({
@@ -392,8 +451,37 @@ app.delete('/weapons/:id', async (req, res) => {
   }
 });
 
-
 ////////////////////////////////////////////////////////////////////////////////
+
+function paginatedResults(model) {  // middle ware?
+  return (req, res, next) => {
+    const page = parseInt(req.query.page);
+    const limit = parseInt(req.query.limit);
+
+    const startIndex = (page - 1) * limit; // need to minus 1 pra index 0
+    const endIndex = page * limit;
+    const results = {}
+
+    if (endIndex < model.length) {
+      results.next = {
+        page: page + 1,
+        limit: limit
+      }
+    }
+
+    if (startIndex > 0) {
+      results.previous = {
+        page: page - 1, 
+        limit: limit,
+      };
+    }
+    // results.results = model.find().limit(limit)
+    // results.results = model.slice(startIndex, endIndex);
+    //  results.results = Video.slice(startIndex, endIndex);
+
+   res.paginatedResults = results
+  };
+}
 
 app.get('/search', async (req, res) => {
   const query = req.query.q;

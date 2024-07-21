@@ -1,7 +1,8 @@
 import mongoose from 'mongoose';
+import process from 'node:process'
 
 async function connectDb() {
-  await mongoose.connect('mongodb://127.0.0.1:27017/genshinimpact-app');
+  await mongoose.connect(process.env.MONGODB_URI);
   // Change the `ecommerce-app` on your desired database name
 }
 
